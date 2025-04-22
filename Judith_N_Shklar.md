@@ -9,7 +9,7 @@ Judith N. Shklar (1928-1992) war eine bedeutende Theoretikerin des politischen L
 
 * Moritz Riemann [riemann@philsem.uni-kiel.de](riemann@philsem.uni-kiel.de) 
 
-* Sprechstundentermine im Sommersemester: **xxx**  |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
+* Sprechstundentermine im Sommersemester: **Mittwochs 14-15 Uhr** |  Boschstraße 1, R. 01.001 | **Keine Anmeldung erforderlich** | Nach Absprache auch digital oder telephonisch unter 0431 880 5644
 
 ## "Regierungserklärung"
 
@@ -20,17 +20,7 @@ Judith N. Shklar (1928-1992) war eine bedeutende Theoretikerin des politischen L
 4. Meine Sprechsstunde ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
 5. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
 
-## Zuordnung und Prüfungsleistungen
 
-**Voraussetzungen / Organisatorisches**
-
-* PHF-phil-BA2 (Geschichte der Philosophie: Neuzeit)
-* PHF-phil-BA4 (Einführung in die praktische Philosophie)
-* PHF-phil-BA6 (Praktische Philosophie – Vertiefung)
-* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
-
-
-Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 30.09.2025 . Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
 
 ## Semesterplan
 
@@ -64,6 +54,147 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 * Beginn: 25.08.2025
 * Ende: 21.09.2025
 
+## Zuordnung und Prüfungsleistungen
+
+
+PHF-phil-BA2 (Geschichte der Philosophie – Gegenwart)
+  - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Freitag, 12 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls. Das Protokoll muss am Beginn der folgenden Sitzung kurz (5 Minuten) vorgestellt werden.
+
+* PHF-phil-BA4 (Einführung in die praktische Philosophie)
+  - Take-Home-Klausur im Umfang von 5-6 Seiten. Die Aufgabenstellung erfolgt in der letzten Sitzung. Abgabe: 31.08.2025
+
+* PHF-phil-BA6 (Praktische Philosophie II – Vertiefung)
+  - Hausarbeit im Umfang von 10 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.08.2025
+
+* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
+   - Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.08.2025
+
+
+Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der  **31.08.2025**. Die Abgabe von THK, Essays und Hausarbeiten erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. **Eine Abgabe per Email ist nicht ausreichend!**
+
+## Hinweise für das Verfassen von Sitzungsprotokollen
+
+### I. Grundformen und Funktionen
+
+1. Wortprotokoll, Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B. bei Gerichtsverhandlungen
+2. Verlaufsprotokoll, Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam es zu Beschlüssen oder Ergebnissen? Wie lauteten die Argumente?
+3. Ergebnisprotokoll, Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des Gesprächsprozesses.
+4. Das wissenschaftliche Protokoll – Anteile des Verlauf- und Ergebnisprotokolls. Schriftliche und systematische Wiedergabe diskursiv erarbeiteten Wissens, die eine gemeinsame Wissensbasis schafft. Funktionen: Dokumentation und Aufbereitung des Wissens, Literaturgrundlage, Kontrolle des Wissensstandes, Üben wissenschaftlichen Formulierens
+
+### II. (Sprachliche) Gestaltung
+
+1. Der Protokollkopf: Name der Hochschule, Institut, Seminartyp, Seminarleitung, Protokollant:in, Semester, Datum.
+
+2. Der Protokolltext: 
+
+    * Der Text ist im Präsens und Indikativ zu verfassen. Bei Bezügen auf den Seminarverlauf - also was eine Person sagte - wird Präteritum gewählt. 
+    * Das Protokoll ist in ganzen Sätzen (nicht in Stichpunkten) zu formulieren. 
+    * Ergebnisse sollen dargestellt werden, allerdings auch deren diskursiver Zusammenhang berücksichtigt werden. Die namentliche Nennung von Sprecher*innen ist nicht angebracht. 
+    * Besonders wichtige Aspekte können markiert oder hervorgehoben werden. Auch sollte das Protokoll sinnvoll durch Überschriften und Zwischenüberschriften (Thema und Unterthemen der Sitzung) strukturiert werden. 
+    * Übliche Länge sind zwei bis drei DIN-A 4-Seiten.
+
+3. Der Anhang: Bibliographie der Literatur der Seminarsitzung / Folien auf die Bezug genommen wurde.
+
+4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts
+
+### III. Herausforderungen
+
+* Balance zwischen diskursivem Verlauf und Ergebnissen -> Herausarbeitung der (zentralen) Ergebnisse.
+* Balance zwischen sprachlicher Verknappung/Abstraktion und Wiedergabe der Beiträge. Bitte keine Umgangssprache verwenden. Auf korrekte Fachlexik achten.
+* Das Protokoll vor der Abgabe Korrektur lesen (lassen).
+* Formal: Protokollkopf einfügen, Gliedern und Strukturieren, Literaturangaben nicht vergessen, Markierungen einheitlich verwenden. (siehe Checkliste)
+
+### IV. Fünf Schritte bei der Erstellung des Protokolls
+
+1. Vorbereitung. Die zu protokollierende Sitzung sollte gut vorbereitet sein.
+
+2. Rezeption der Seminarsitzung. Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen.
+
+3. Mitschrift während der Sitzung. Wichtige Inhalte müssen dokumentiert werden – gern auch in Stichpunkten oder unter Verwendung von Symbolen und Verweisen. Es ist nicht leicht zu entscheiden, was wichtig und was weniger wichtig ist. Hier hilft es Ihnen, wenn Sie exzellent auf die Seminarsitzung vorbereitet sind. Achten Sie auf folgende Aspekte:
+
+    * Quantität der Besprechungsdauer – Wie lange wurde ein Aspekt besprochen?
+    * Top-down denken. Lässt sich die Sitzung in Themenclustern beschreiben? Wie lässt sich eine Struktur herstellen?
+    * Gesamtdiskurs aufzeigen. Welche Aspekte vergangener Sitzungen wurden aufgegriffen?
+    * Bilanz ziehen. Offene Fragen nennen.
+
+4. Komprimieren und Reproduzieren. Es bietet sich an, die Mitschrift so schnell wie möglich zu bearbeiten, da die Inhalte dann noch frisch erinnert werden. Ergänzen Sie nun aus dem Gedächtnis oder aus Ihren Materialien wichtige Aspekte ihrer Mitschrift und bringen Sie die Inhalte in eine Struktur (die von der Chronologie des Seminars abweichen kann).
+
+5. Erstellen des Protokolls. Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form gebracht werden. Möglicherweise wird der Text auch nochmals umstrukturiert. Der fertige, korrigierte Text kann auch nochmal anhand der Funktionen des Protokolls überprüft werden. Kann eine fremde Person den Sitzungsverlauf und -inhalte nachvollziehen?
+
+Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
+
+### V. Checkliste vor der Abgabe
+
+ 1. Hat Ihr Protokoll einen Kopf?
+ 2. Ist Ihr Text einheitlich formatiert, im Blocksatz und unter Berücksichtigung der Seitenränder? Stimmen die Seitenumbrüche? Haben Sie Seitenzahlen angegeben?
+ 3. Haben Sie die Textgrundlage der Sitzung und weitere Quellen einheitlich und eindeutig bibliographisch nachgewiesen?
+ 4. Besteht Ihr Text aus ganzen und klar verständlichen Sätzen?
+ 5. Haben Sie Orthographie und Grammatik korrekturgelesen? Haben Sie Fremdwörter und Fachbegriffe nachgeschlagen und deren korrekte Schreibweise überprüft?
+ 6. Haben Sie die Sitzungsinhalte gegliedert?
+ 7. Ist Ihr Text ergebnisorientiert verfasst?
+ 8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
+ 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
+10. Haben Sie alle Punkte der Checkliste berücksichtigt?
+11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
+
+
+### VI. Vorstellung des Protokolls in der nächsten Sitzung
+
+* Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die Seminarteilnehmenden zusammenfassen können.
+
+## Der Essay als Prüfungsart in den Bachelor- und Masterstudiengängen Philosophie
+
+### 1. Der philosophische Essay
+
+Mit dem Essay als Prüfungsform stellt sich das Philosophische Seminar der Kieler Universität in eine philosophische Tradition, die in dieser literarischen Form die eigenständige Auseinandersetzung mit
+einer Frage und These wagt und einen eigenen Gedanken entfaltet. Der Essay (von frz. *essai*: „Versuch“ >
+lat. *exagium*, dt. „wägen“, „Gewicht“) ist ein prägnanter Aufsatz über ein philosophisches Problem, eine
+kontrovers diskutierte Fragestellung oder These. Im Unterschied zu einer Hausarbeit, in der eine
+sachorientierte und systematische Behandlung eines Themas erwartet wird, kommt es beim Essayschreiben
+darauf an, das jeweilige Thema in einem größeren Zusammenhang zu ‚erwägen‘, d.h. zu erörtern, um zu einer eigenen Position zu finden und deutlich Stellung zu beziehen. Der Essay erlaubt stilistisch eine größere Freiheit als die wissenschaftliche Hausarbeit, jedoch handelt es sich nicht um eine persönliche Meinungsäußerung, sondern um eine argumentativ begründete Auseinandersetzung.
+
+Die Tradition des philosophischen Essays geht auf die *Essais* von Michel de Montaigne (1533-1592) zurück und betont die eigene Denkbewegung und das erforschende Suchen eines Standpunktes. Mit der essayistischen Form ist eine besondere Form des Philosophierens verbunden, deren Fokus weniger auf der systematischen Auseinandersetzung liegt, sondern vielmehr in der Darstellung der Denkbewegung und Entfaltung eines Gedankens selbst. Mit Francis Bacon (1561-1626), der das Wort von Montaigne übernommen und ins Englische übertragen hat, wird *Essay* zur Gattungsbezeichnung nicht nur philosophischer, sondern auch literarischer Schriften. Beide Autoren gelten als ´Ahnväter´ der philosophischen Essayistik.
+
+Die semantische Erkundung von *essai/essaier* gibt erste Hinweise auf die Unmittelbarkeit und Erfahrungsorientiertheit der essayistischen Denk- und Schreibweise: Wer essayistisch denkt und schreibt, fängt bei sich, d.h. den eigenen Erfahrungen mit der Welt und mit sich selbst an; sie/er unterzieht dabei die eigenen Sichtweisen, Erfahrungen, Urteile, aber auch das, was an Sichtweisen, Erfahrungen, Urteilen anderer jeweils begegnet, einer denkenden Prüfung oder Erwägung. Wenn es sich bei dem Geschriebenen noch dazu um Versuche handelt, so sind die damit verbundenen Wissens-, Erkenntnis- oder Wahrheitsansprüche anscheinend deutlich herabgestimmt. Zugleich bedeutet die essayistische Denkweise aber auch die Erprobung einer Perspektive auf eine bestimmte Sache (seien es Dinge, Sachverhalte/Phänomene, Situationen, Ereignisse), um sie zu erschließen und zu beurteilen.
+
+Eine Hochzeit der philosophischen Essayistik lag in der europäischen Aufklärung des 18. Jahrhunderts. Die Zeit der kritischen Emanzipation von tradierten Herrschaftsverhältnissen hat namhaften Essayisten wie Voltaire in Frankreich, David Hume in England und Gotthold Ephraim Lessing in Deutschland hervorgebracht.
+
+ 
+Das Essayschreiben erfordert in besonderer Weise kritisches Selbstdenken und die Entwicklung einer eigenständigen Argumentation. Auch wenn die Rückbeziehung auf persönliche bzw. alltägliche Erfahrungen dabei ein wesentlicher Bestandteil der Essayistik ist, **so liegt im Philosophiestudium der Akzent beim Essayschreiben doch deutlich auf der gedanklichen Auseinandersetzung mit einer philosophischen Problemstellung/Kontroverse oder einer philosophischen Position oder einem philosophischen Begriff.** In diesem Kontext kommt es darauf an, sich philosophische Texte methodisch erschließen zu können, um sie angemessen zu verstehen und auszulegen. Mit Hans Georg Gadamer lässt sich der Vorgang des Verstehens als ein Bemühen beschreiben, mit dem Text ´ins Gespräch zu kommen´, d.h. den historischen Horizont des Textes mit dem eigenen „Verstehenshorizont der Gegenwart“, seinen impliziten Maßstäben und legitimen Vorurteilen zu „verschmelzen“.[^1] Eine gute Vorbereitung für diese **hermeneutische Herangehensweise beim Essayschreiben** ist es, sich vor der Lektüre die eigenen Erwartungen an den Text bzw. an das Thema und das eigene Vorverständnis zu vergegenwärtigen.[^2] Wie bei einem Gespräch mit einem unbekannten Menschen, kann dies dazu beitragen, das Gefühl der Fremdheit zu überwinden und dem Gelesenen gegenüber aufgeschlossen zu bleiben – also: aufmerksam ´zuzuhören´. 
+
+[^1]: H.-G. Gadamer: *Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik.* Tübingen 1960. 6. Aufl. 1990. S.289f. 
+
+[^2]: Vgl. Thomas Rentsch/Johannes Rohbeck: *Essays schreiben – aber mit Methode.* In: Jahrbuch für Didaktik der Philosophie und Ethik 8 (2007). S. 75-81. hier S.78f.
+
+**Literaturhinweise**
+
+Montaigne, Michel de: *Essais*. Übers. v. Hans Stilett. Frankfurt a.M. 2001.
+
+Bacon, Francis: *Essays oder praktische und moralische Ratschläge*. Übers. v.  Elisabeth Schücking. Hrsg. v. Levin Schücking. Stuttgart 2011.
+
+Konersmann, Ralf: *Essay*. in: Ders.: Wörterbuch der Unruhe. Frankfurt a. M. 2017. S.49-55.
+
+Černy, Lothar: *Essay*, in: Historisches Wörterbuch der Philosophie. Hrsg. v. Joachim Ritter, Karlfried Gründer und Gottfried Gabriel. Basel 1971-2007. Bd. 2, Sp.746-749.
+
+Schärf, Christian: *Geschichte des Essays. Von Montaigne bis Adorno.* Göttingen 1999.
+
+
+### 2. Der Essay als Prüfungsart in den Bachelor- und Masterstudiengängen Philosophie
+
+Der Essay kann in den BA-Wahlpflichtmodulen BA7 und BA8 als eine unter vier Prüfungsarten gewählt werden (Umfang: ca. 10 Seiten); im Modul BA9 ist er neben einer Hausarbeit als weitere Prüfungsart vorgeschrieben. – In den Masterstudiengängen Philosophie ist der Essay verpflichtende Prüfungsart in den Modulen MAA1 bzw. MAE2. 
+Die Form des Essays als Prüfungsleistung ist offener als bei einer Hausarbeit. Zur Form gehören die Zitation und eine Bibliographie, wie es auch die wissenschaftliche Hausarbeit fordert. Jedoch sind strenge Strukturierungen mit einem Inhaltsverzeichnis und einer Kapitelstruktur nicht erforderlich. Selbstverständlich gehört zur Prüfungsleistung des Essays ebenso ein Titelblatt wie die aktuelle Eigenständigkeitserklärung. Die offenere Form liegt in größerer sprachlicher und stilistischer Freiheit. Die eigene Perspektive auf eine philosophische Frage oder einen philosophischen Gedanken darf ausgeführt werden, ohne dabei reine Meinungsäußerung zu sein. Es darf mit Beispielen zur Veranschaulichung und Sprachbildern, Metaphern, Fragen gearbeitet werden. Dabei sollte jedoch eine erkennbare Ordnung der Gedanken, d.h. nachvollziehbare Gedankengänge und die erforderliche logische Konsistenz nicht vernachlässigt werden. Ziel ist es einen Standpunkt zu er- und begründen und eine kritische Reflexion eines philosophischen Gegenstandes vorzunehmen.
+Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister[^3] unterscheidet drei Formen des studentischen Essays: 1) den *kritischen* Essay, der eine kritische Prüfung einer philosophischen These vornimmt; 2) den *problemlösenden* Essay, der die Lösung eines philosophischen Problems versucht, und 3) den *urteilenden* Essay, der die Entscheidung eines philosophischen Streits versucht. Jay F. Rosenberg[^4] erläutert wie in einem Essay eine *begründete Verteidigung einer These* erfolgt.
+
+**Achtung:** Das Thema des Essays ist in der Regel im Rahmen des Seminarhorizonts frei gewählt, aber stets mit den Dozent*innen abzustimmen! Das gleiche gilt für etwaige spezifischen Anforderungen des Essays als Prüfungsleistung, die von der jeweiligen Lehrperson festgelegt werden. Diese können von den hier formulierten Anforderungen abweichen.
+
+**Hinweise zum Essayschreiben** s. Lektion zum Essay im **E-Learning Kurs** *Wissenschaftliches Arbeiten im Fach Philosophie*, 3.6/Lektion 13:
+
+
+[^3]: Vgl. Pfister, Jonas: *Werkzeuge des Philosophierens*. S.246-250.
+
+[^4]: Vgl. Rosenberg, Jay F.: *Philosophieren. Ein Handbuch für Anfänger*. Frankfurt a. M. 2009. S.81.
+
+
 ## 1. Sitzung am 22.04.2025
 
 ![Judith Shklar](judith-shklar.jpg)
@@ -80,7 +211,7 @@ Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophi
 Judith Shklar gilt als eine der bedeutendsten liberalen Theoretikerinnen des 20. Jahrhunderts. Ihre Arbeiten haben bis heute Einfluss auf Debatten über politische Ethik, Machtbegrenzung und die Rolle von Freiheit in einer liberalen Gesellschaft.
 
 
-## **Leben**:
+## Leben
 
 - **Herkunft und Flucht:** 
 Geboren in eine deutschsprachige jüdische Familie, floh sie 1939 mit ihrer Familie vor den Nationalsozialisten und Sowjets über die Transsibirische Eisenbahn nach Kanada.  
@@ -89,10 +220,10 @@ Geboren in eine deutschsprachige jüdische Familie, floh sie 1939 mit ihrer Fami
 Studium der Politikwissenschaft an der McGill University in Montreal; Promotion an der Harvard University (1955). 
 
 - **Karriere:**
-Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an der Harvward University. Sie lehrte dort bis zu ihrem Tod und wurde 1980 zur "John Cowles Professor of Goverment" ernannt.
+Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an der Harvard University. Sie lehrte dort bis zu ihrem Tod und wurde 1980 zur "John Cowles Professor of Goverment" ernannt.
 
 
-# **Philosophisches Denken**:
+## Philosophisches Denken
 
 **Wichtige Werke**:
 
@@ -103,7 +234,7 @@ Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an 
 
 
 **Der Liberalismus der Furcht (1989)**
-Dieses Werk ist ihr bekanntestes und prägendstes. Es formuliert eine liberale Theorie, die darauf abzielt, Grausamkeit und Machtmissbrauch zu verhindern. Shklar argumentiert, dass der Liberalismus vor allem die Freiheit sichern sollte, ohne Furcht Entscheidungen treffen zu können. Sie befürwortet eine konstitutionelle Demokratie, die Macht begrenzt und verteilt.
+Dieser kurze Text ist ihr bekanntester und prägendster. Es formuliert eine liberale Theorie, die darauf abzielt, Grausamkeit und Machtmissbrauch zu verhindern. Shklar argumentiert, dass der Liberalismus vor allem die Freiheit sichern sollte, ohne Furcht Entscheidungen treffen zu können. Sie befürwortet eine konstitutionelle, repräsentative und menschenrechtlich-liberale Demokratie, die Macht begrenzt und verteilt.
 
 **Ganz normale Laster (1984)**
 
@@ -122,9 +253,9 @@ Dieses frühe Werk kritisiert utopisches Denken in der politischen Theorie und p
 Ihre kritischen Texte über Hannah Arendt beleuchten Unterschiede in den Denkansätzen der beiden Philosophinnen, insbesondere in Bezug auf Exil, Freiheit und politische Romantik. Diese Essays sind besonders relevant für das Verständnis von Shklars Position im Vergleich zu anderen großen politischen Theoretikern[2].
 Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und politische Ethik und machen Judith Shklar zu einer der bedeutendsten Denkerinnen des 20. Jahrhunderts.
 
-# **Zum Nachforschen:**
+## Zum Nachforschen
 
-**Ausgewählte Sekundärliteratur** 
+### Ausgewählte Sekundärliteratur
 
 - Abbey, Ruth, „Putting Cruelty First: Exploring Judith Shklar's Liberalism of Fear for Animal Ethics", in: Politics and Animals 2, Nr. 1 (2016), S. 25-36.
 
@@ -134,7 +265,7 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 - Bajohr, Hannes, „Harmonie und Widerspruch. Mit Judith N. Shklar gegen die ‚Ideologie der Einigkeit*", Hendrikje Schauer und Marcel Lepper (Hg.), Distanzierung und Engagement. Wie politisch sind die Geisteswissenschaften? (Stuttgart: Works & Nights 2018), S.75-85.
 
-- Bajohr, Hannes, „Judith N. Shklar über die Quellen liberaler Normativität", , in: Karsten Fischer und Sebastian Huhnholz (Hg.), Liberalismus. Traditions-bestände und Gegenwartskontroversen (Baden-Baden: Nomos 2019), S.71-98.
+- Bajohr, Hannes, „Judith N. Shklar über die Quellen liberaler Normativität", , in: Karsten Fischer und Sebastian Huhnholz (Hg.), Liberalismus. Traditionsbestände und Gegenwartskontroversen (Baden-Baden: Nomos 2019), S.71-98.
 
 - Bajohr, Hannes, „Strategies of Authority: The Distorting Think-Piece and the Case of Judith Shklar", in: [Journal of the History of Ideas](https://www.jhiblog.org/2020/07/08/strategies-of-authority-the-distorting-think-piece-and-the-case-of-judith-shklar/) (Blog), 2020.
 
@@ -142,7 +273,7 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 - Betsky, Celia B., [„Judith Shklar. The Metics' Metic"](https://www.thecrimson.com/article/1972/3/31 judith-shklar-the-metics-metic-pbcbommenting/), The Harvard Crimson, 31. März 1972.
 
-- Blättler, Sidonia: Judith Shklar. Aufklarung ohne Glücks-versprechen, in: Polis 53(2011), S. 14-30.
+- Blättler, Sidonia: Judith Shklar. Aufklarung ohne Glücksversprechen, in: Polis 53(2011), S. 14-30.
 
 - Davis, Natalie Z., Brief an Judith N. Shklar, 3. Dezember 1982, Papers of Judith N. Shklar, Series: Correspon-dence, 1959-1992, HUGFP 118, Box2.
 
@@ -204,7 +335,7 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 - Rieke Trimçev: [Verbindlichkeitskonflikte und politische Verpflichtung](https://www.ssoar.info/ssoar/bitstream/handle/document/66276/ssoar-zpth-2018-2-trimcev-Verbindlichkeitskonflikte_und_politische_Verpflichtung.pdf?sequence=2&isAllowed=y&lnkname=ssoar-zpth-2018-2-trimcev-Verbindlichkeitskonflikte_und_politische_Verpflichtung.pdf).
 
 
-**Judith Shklar im Netz (Auswahl)**:
+### Judith Shklar im Netz (Auswahl)
 
 -	[Die politische Philosophie der Judith N. Shklar - Liberalismus ohne Illusionen](https://www.br.de/mediathek/podcast/radiowissen/die-politische-philosophie-der-judith-n-shklar-liberalismus-ohne-illusionen/1853684).
 
@@ -231,7 +362,7 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 - [Michael Knoll (intellectures): Liberalismus und Demokratie führen eine Zweckehe](https://www.intellectures.de/2021/03/29/liberalismus-und-demokratie-fuehren-eine-zweckehe/).
 
 
-**Podcastsendungen (Auswahl)**: 
+### Podcastsendungen (Auswahl)
 
 -	[Podcast Filosofie: Judith Shklar](https://podcasts.apple.com/de/podcast/judith-shklar/id1451841760?i=1000646349383).
 
