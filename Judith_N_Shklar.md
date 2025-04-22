@@ -195,6 +195,11 @@ Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister
 [^4]: Vgl. Rosenberg, Jay F.: *Philosophieren. Ein Handbuch für Anfänger*. Frankfurt a. M. 2009. S.81.
 
 
+## Hinweise zum Verfassen von Hausarbeiten
+
+[Ausführliche Hinweise hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/Philosophie-Lehre-Moritz-Riemann/Hausarbeit/refs/heads/main/Hausarbeit_main.md)
+
+
 ## 1. Sitzung am 22.04.2025
 
 ![Judith Shklar](judith-shklar.jpg)
@@ -213,14 +218,18 @@ Judith Shklar gilt als eine der bedeutendsten liberalen Theoretikerinnen des 20.
 
 ## Leben
 
-- **Herkunft und Flucht:** 
+**Herkunft und Flucht:** 
 Geboren in eine deutschsprachige jüdische Familie, floh sie 1939 mit ihrer Familie vor den Nationalsozialisten und Sowjets über die Transsibirische Eisenbahn nach Kanada.  
 
-- **Bildung:** 
+**Bildung:** 
 Studium der Politikwissenschaft an der McGill University in Montreal; Promotion an der Harvard University (1955). 
 
-- **Karriere:**
+**Karriere:**
 Erste Frau auf einer Festanstellung im Fachbereich Politische Wissenschaften an der Harvard University. Sie lehrte dort bis zu ihrem Tod und wurde 1980 zur "John Cowles Professor of Goverment" ernannt.
+
+[**Storymap zu Shklars Flucht und Vita**](https://storymaps.arcgis.com/stories/38af7d5862a84180a00f70f34981df5b)
+
+Elaine Ringeloth, Fleming Jensen
 
 
 ## Philosophisches Denken
@@ -265,7 +274,7 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 - Bajohr, Hannes, „Harmonie und Widerspruch. Mit Judith N. Shklar gegen die ‚Ideologie der Einigkeit*", Hendrikje Schauer und Marcel Lepper (Hg.), Distanzierung und Engagement. Wie politisch sind die Geisteswissenschaften? (Stuttgart: Works & Nights 2018), S.75-85.
 
-- Bajohr, Hannes, „Judith N. Shklar über die Quellen liberaler Normativität", , in: Karsten Fischer und Sebastian Huhnholz (Hg.), Liberalismus. Traditionsbestände und Gegenwartskontroversen (Baden-Baden: Nomos 2019), S.71-98.
+- Bajohr, Hannes, „Judith N. Shklar über die Quellen liberaler Normativität", in: Karsten Fischer und Sebastian Huhnholz (Hg.), Liberalismus. Traditionsbestände und Gegenwartskontroversen (Baden-Baden: Nomos 2019), S.71-98.
 
 - Bajohr, Hannes, „Strategies of Authority: The Distorting Think-Piece and the Case of Judith Shklar", in: [Journal of the History of Ideas](https://www.jhiblog.org/2020/07/08/strategies-of-authority-the-distorting-think-piece-and-the-case-of-judith-shklar/) (Blog), 2020.
 
