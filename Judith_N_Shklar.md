@@ -26,15 +26,15 @@ Judith N. Shklar (1928-1992) war eine bedeutende Theoretikerin des politischen L
 
 | **22.04.2025** | **Eröffnung, Organisatorisches, Einleitung** | **Protokoll** |
 |------------|------------------------------|---------|
-| 29.04.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 27-49| -- |
-| 06.05.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 50-67| -- |
-| 13.05.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 67-83| -- |
-| 20.05.2025 | 2 Unglück und Ungerechtigkeit S. 85-108| -- |
-| 27.05.2025 | 2 Unglück und Ungerechtigkeit S. 108-134| -- |
-| 03.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 135-148| -- |
-| 10.06.2025| 3 Der Sinn für Ungerechtigkeit S. 148-165| -- |
-| 17.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 165-182| -- |
-| 24.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 182-202| -- |
+| 29.04.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 27-49| Nele Guddat |
+| 06.05.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 50-67| Käthe Wieseler |
+| 13.05.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 67-83| Yasmina El Hanafy |
+| 20.05.2025 | 2 Unglück und Ungerechtigkeit S. 85-108| Rana Oukasha |
+| 27.05.2025 | 2 Unglück und Ungerechtigkeit S. 108-134| Eslem Tas |
+| 03.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 135-148| Julian Lehmitz |
+| 10.06.2025| 3 Der Sinn für Ungerechtigkeit S. 148-165| Emmelie Bauer |
+| 17.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 165-182| Jannik Steenbock |
+| 24.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 182-202| Sina Gruber |
 | 01.07.2025| Ergänzungstext oder Vertiefungssitzung| -- |
 | 08.07.2025| **Abschlussdiskussion** | -- |
 
