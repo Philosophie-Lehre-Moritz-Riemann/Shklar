@@ -375,4 +375,9 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 -	[SWR. Das Wissen: Die Politologin Judith Shklar](https://podcasts.apple.com/de/podcast/die-politologin-judith-nisse-shklar-wie-demokratien/id104913043?i=1000501341831).
 
--	[Talking Politics: Shklar on Hypocrisy](https://podcasts.apple.com/de/podcast/shklar-on-hypocrisy/id1508992867?i=1000517869772). 
+-	[Talking Politics: Shklar on Hypocrisy](https://podcasts.apple.com/de/podcast/shklar-on-hypocrisy/id1508992867?i=1000517869772).
+-	
+
+## 2. Sitzung am 29.04.2025
+
+Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit (S. 29ff.); Zweifel and er Gerechtigkeit im Reich der Ungerechtigkeit (S. 36ff.)
