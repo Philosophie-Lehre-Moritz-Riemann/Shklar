@@ -380,4 +380,4 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 ## 2. Sitzung am 29.04.2025
 
-Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit (S. 29ff.); Zweifel and er Gerechtigkeit im Reich der Ungerechtigkeit (S. 36ff.)
+Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit (S. 29ff.); Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit (S. 36ff.)
