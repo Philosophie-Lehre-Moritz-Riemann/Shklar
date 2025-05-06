@@ -382,7 +382,7 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit (S. 29ff.); Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit (S. 36ff.)
 
-### Protokoll von Nele Guddat
+## Protokoll von Nele Guddat
 
 In der Sitzung vom 29.04.2025 wurden Auszüge aus Judith N. Shklars Werk „Über
 Ungerechtigkeit. Erkundung zu einem moralischen Gefühl“[^1] besprochen. Shklar
