@@ -381,3 +381,123 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 ## 2. Sitzung am 29.04.2025
 
 Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit (S. 29ff.); Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit (S. 36ff.)
+
+### Protokoll von Nele Guddat
+
+In der Sitzung vom 29.04.2025 wurden Auszüge aus Judith N. Shklars Werk „Über
+Ungerechtigkeit. Erkundung zu einem moralischen Gefühl“[^1] besprochen. Shklar
+kritisiert die Vernachlässigung des Begriffs ‚Ungerechtigkeit’ in Theorie und
+Öffentlichkeit und zeigt, dass gerade diese Leerstelle zentrale politische und moralische
+Fragen aufwirft.
+
+**Begriffsunterscheidung**
+
+Shklar beginnt mit der Unterscheidung zwischen Unglück und Ungerechtigkeit.
+Ersteres wird als unbeeinflussbares — oft naturgegebenes — Ereignis gesehen.
+Beispiele könnten Naturgewalten darstellen. Ungerechtigkeit hingegen besteht, wenn
+durch Handeln oder auch Nichthandeln (passive Ungerechtigkeit)[^2] direkter Einfluss auf
+eine Situation entsteht, durch welche Leid verursacht wird.[^3] Bereits bei der
+Unterscheidung beider Begriffe zeigen sich Grauzonen. So können auch durch den
+menschengemachten Klimawandel Naturkatastrophen hervorgerufen werden, die nun
+anstatt unter Unglück unter Ungerechtigkeit zählen. Je tiefer man also in die
+Begriffsunterscheidungen blickt, umso mehr verschmelzen die Grenzen beider Begriffe.
+Shklars zentrale These ist, dass die Grenze zwischen Unglück und Ungerechtigkeit verschwommen und stark abhängig von politischen und normativen Setzungen ist, wodurch die Betrachtung der Begriffe immer im Wandel ist.[^4]
+
+**Opferperspektive**
+
+Das Reich der Ungerechtigkeit ist oft deutlich größer als wir wahrnehmen. Um sie
+besser sehen zu können, müssen wir uns von der Täterperspektive lösen und der
+Perspektive der Opfer nähern. Denn die Wahrnehmung von Ungerechtigkeit ist oft
+subjektiv und nur aus der Opferperspektive vollständig erfahrbar.[^5] Doch auch die
+Perspektive der Opfer ist nicht immer korrekt. So sagt Shklar, dass Menschen potentiell
+ungerecht handeln können, wenn sie andere anklagen. Denn das Suchen von
+Ungerechtigkeit ist eine menschliche Eigenschaft und hört meist auch nicht auf, bevor
+ein Schuldiger gefunden wird. Doch es gibt auch Formen der Ungerechtigkeit die
+keinen Verursacher haben. Für Opfer ist es jedoch schwer eine Situation ‚nur’ als
+Unglück anzunehmen.[^6]
+
+**Vernachlässigung von Ungerechtigkeit**
+
+Bereits wenn man sich den Buchtitel „Über Ungerechtigkeit“[^7] genauer anschaut, so
+verpackt Shklar bereits hier ihre Position. Für Shklar steht fest, dass der Begriff
+Ungerechtigkeit nicht genug beachtet wird. Philosophie fokussiere sich einseitig auf
+Gerechtigkeit.[^8] Ungerechtigkeit wird marginalisiert, sowohl in der Theorie als auch im
+öffentlichem Diskurs. Hier liegt auch das konkrete Problem: Ungerechtigkeit wird nicht
+genug betrachtet. Im Diskurs wird nur über Gerechtigkeit gesprochen, alles was nicht
+gerecht ist, muss ungerecht sein.[^9] Wenn Ungerechtigkeit nur als Abwesenheit von
+Gerechtigkeit bestimmt wird, bleibt sie dabei unbestimmt. Diese Bestimmung macht
+Ungerechtigkeit zu einem wandelbarem Begriff, da Gerechtigkeit auch immer davon abhängt was ideologisch und gesellschaftlich festgelegt wurde.[^10] In einem Staat würde
+Ungerechtigkeit dann herrschen, wenn keine Regeln vorhanden sind, nicht wenn diese
+nicht befolgt werden. Doch auch innerhalb einer funktionierenden Rechtsordnung
+können Ungerechtigkeiten existieren. Diese sind in das System eingebunden und
+akzeptiert, was sie allerdings nicht weniger ungerecht macht. Auch hinter dem Schutz
+der Institutionen kann das Recht selbst zur Durchsetzung von Unrecht benutzt werden.[^11]
+Wenn wir uns also darauf verlassen, dass Gerechtigkeit durch Rechtsordnungen
+produziert wird, verlassen wir den Boden der Moral und folgen blind den Gesetzen
+ohne uns um das durch sie produzierte Unrecht zu kümmern.
+Doch Ungerechtigkeit und Gerechtigkeit können auch gleichzeitig existieren. Denn
+Gerechtigkeit ist im einfachsten Modell ein Ideal, welches in politischen Systemen
+angestrebt wird.[^12] Ungerechtigkeit hingegen ist oft eine konkrete Erfahrung.[^13] Beides
+schließt sich nicht zwangsläufig aus, sondern existiert in einem Spannungsverhältnis. So
+kann ein Staat gerechte Prinzipien vertreten, aber gleichzeitig ungerecht handeln. Nur
+durch Gerechtigkeit wird Ungerechtigkeit sichtbar und umgekehrt.
+Unrecht wird oft privat empfunden, womit wir eine Grenze zwischen privaten und
+gesellschaftlichen Problemen ziehen. Diese Grenze lässt allerdings viele Faktoren aus.[^14]
+Auch in der bildenden Kunst sieht Shklar ein Mangel an der Representation von
+Unrecht.[^15] Sie unterstellt den bildenden Künsten, sowie der Philosophie eine Art der
+Überheblichkeit. Beide Bereiche würden sich nur mit der Gerechtigkeit befassen und
+Lösungen für mehr Gerechtigkeit präsentieren, ohne sich mit der Ungerechtigkeit
+wirklich zu beschäftigen.[^16] Doch ob die bildende Kunst hier richtig betrachtet wird ist
+anfechtbar, da beispielsweise mehrere Jahrhunderte der Kunstgeschichte mit
+Gewaltdarstellungen und Darstellungen von Unrecht gefüllt sind.
+
+**Rolle der politischen Theorie**
+
+Ungerechtigkeit darf laut Shklar weder im reinen Modus der Geschichte oder Ethik
+betrachtet werden. Im Gegensatz zur Gerechtigkeit können für Ungerechtigkeit keine
+allgemeinen ethischen Regeln aufgestellt werden. Doch auch nur der reine
+geschichtliche Blick bringt uns nicht weiter, da wir an bereits Geschehenem nichts
+ändern können. Das Zusammenspiel aus Ethik und Geschichte, welches sich in der
+politischen Theorie wiederfindet, bringt einen guten Mittelweg um sich mit
+Ungerechtigkeit auseinanderzusetzen. So können wir Vergangenes reflektieren und
+daraus lernen.[^17]
+
+**Schlussreflektion**
+
+Es ist schwer zu bestimmen, was gerecht oder ungerecht ist — besonders, da
+Gerechtigkeit oft durch Systeme vorgegeben wird. Ungerechtigkeit ist oft subjektiv,
+dadurch aber auch konkreter. Beides kann gleichzeitig existieren, etwa im
+Flüchtlingsrecht: Ein Regelwerk zum Schutz marginalisierter Gruppen wird gleichzeitig
+zur Ausgrenzung verwendet. Shklar kritisiert genau diese Doppelfunktionen, in der
+große Regelwerke Ungerechtigkeit nicht verhindern, sondern mitproduzieren.[^18]
+
+**Literaturverzeichnis**
+
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1.
+Auflage, MSB Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+
+
+[^1]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
+Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+[^2]: Vgl. ebd. Seite 13-14.
+[^3]: Vgl. ebd. Seite 7-8.
+[^4]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
+Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021, vgl. Seite 16-17.
+[^5]: Vgl. ebd. Seite 26.
+[^6]: Vgl. ebd. Seite 10-11.
+[^7]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
+Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+[^8]: Vgl. ebd. Seite 29-30.
+[^9]: Vgl. ebd.
+[^10]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
+Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021, vgl. Seite 17.
+[^11]: Vgl. ebd. Seite 34-36.
+[^12]: Vgl. ebd. Seite 32.
+[^13]: Vgl. ebd. Seite 10-11.
+[^14]: Vgl. ebd. Seite 16.
+[^15]: Vgl. ebd. Seite 29.
+[^16]: Vgl. ebd.
+[^17]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
+Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021, vgl. Seite 30.
+[^18]: Vgl. ebd. Seite 35-36.
+
