@@ -479,25 +479,42 @@ Auflage, MSB Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 [^1]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
 Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+
 [^2]: Vgl. ebd. Seite 13-14.
+
 [^3]: Vgl. ebd. Seite 7-8.
+
 [^4]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
 Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021, vgl. Seite 16-17.
+
 [^5]: Vgl. ebd. Seite 26.
+
 [^6]: Vgl. ebd. Seite 10-11.
+
 [^7]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
 Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+
 [^8]: Vgl. ebd. Seite 29-30.
+
 [^9]: Vgl. ebd.
+
 [^10]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
 Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021, vgl. Seite 17.
+
 [^11]: Vgl. ebd. Seite 34-36.
+
 [^12]: Vgl. ebd. Seite 32.
+
 [^13]: Vgl. ebd. Seite 10-11.
+
 [^14]: Vgl. ebd. Seite 16.
+
 [^15]: Vgl. ebd. Seite 29.
+
 [^16]: Vgl. ebd.
+
 [^17]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl., 1. Auflage, MSB
 Matthes & Seitz, herausgegeben von Hannes Bajohr, Berlin 2021, vgl. Seite 30.
+
 [^18]: Vgl. ebd. Seite 35-36.
 
