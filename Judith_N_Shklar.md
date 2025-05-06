@@ -532,6 +532,6 @@ Passive Ungerechtigkeit: Wie man ein schlechter Bürger ist (S. 67ff.)
 > Gruppe 3: Wer sind die Opfer der Ungerechtigkeit?: Wie beschreibt Shklar die Täterperspektive der Gerechtigkeitstheorie?
 > 
 > Gruppe 4: Wer sind die Opfer der Ungerechtigkeit?: Wie beschreibt Shklar die Opferperspektive der Gerechtigkeitstheorie?
-> 
+
 
 
