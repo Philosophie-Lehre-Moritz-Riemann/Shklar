@@ -512,3 +512,21 @@ Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl,
 
 [^18]: Vgl. ebd. Seite 35-36.
 
+
+## 3. Sitzung am 06.05.2025
+
+**Textgrundlage:** 
+
+Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit (S.36ff.)
+Wer sind die Opfer der Ungerechtigkeit? (S. 50ff.)
+Passive Ungerechtigkeit: Wie man ein schlechter Bürger ist (S. 67ff.)
+
+### Gruppenarbeit
+
+> Bildet vier Gruppen. Analysiert und diskutiert die Euch zugewiesene Textpassage auf die Schlüsselbegriffe hin. Bereitet die Ergebnisse so auf, dass Ihr sie im Plenum vorstellen könnt und benennt dazu zwei Sprecher:innen. Ihr habt 20 Minuten Zeit.
+> Gruppe 1: Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit: Wie versteht und erklärt Shklar den Begriff Skeptizismus in Bezug auf Gerechtigkeit?
+> Gruppe 2: Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit: Warum ist Gerechtigkeit für Platon ein Erkenntnisproblem?
+> Gruppe 3: Wer sind die Opfer der Ungerechtigkeit?: Wie beschreibt Shklar die Täterperspektive der Gerechtigkeitstheorie?
+> Gruppe 4: Wer sind die Opfer der Ungerechtigkeit?: Wie beschreibt Shklar die Opferperspektive der Gerechtigkeitstheorie?
+
+
