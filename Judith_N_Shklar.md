@@ -634,7 +634,7 @@ Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl,
 [^11]: Vgl. S. 64.
 
 
-## 3. Sitzung am 13.05.2025
+## 4. Sitzung am 13.05.2025
 
 Textgrundlage: S. 67--83
 
