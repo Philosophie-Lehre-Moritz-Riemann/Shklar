@@ -29,8 +29,8 @@ Judith N. Shklar (1928-1992) war eine bedeutende Theoretikerin des politischen L
 | 29.04.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 27-49| Nele Guddat |
 | 06.05.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 50-67| Käthe Wieseler |
 | 13.05.2025 | 1 Der Ungerechtigkeit Gerechtigkeit widerfahren lassen S. 67-83| Yasmina El Hanafy |
-| 20.05.2025 | 2 Unglück und Ungerechtigkeit S. 85-108| Rana Oukasha |
-| 27.05.2025 | 2 Unglück und Ungerechtigkeit S. 108-134| Eslem Tas |
+| 20.05.2025 | 2 Unglück und Ungerechtigkeit S. 85-108| Marlon Wieben |
+| 27.05.2025 | 2 Unglück und Ungerechtigkeit S. 108-134| Jördis Voß |
 | 03.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 135-148| Julian Lehmitz |
 | 10.06.2025| 3 Der Sinn für Ungerechtigkeit S. 148-165| Emmelie Bauer |
 | 17.06.2025 | 3 Der Sinn für Ungerechtigkeit S. 165-182| Jannik Steenbock |
@@ -584,12 +584,12 @@ Entscheidungsfreiheit und ist eine relativ monarchisch obligatorische Regelung. 
 wissen können, was Gerechtigkeit ist, können wir auch nicht, wenn wir vor Entscheidungen
 stehen, gerecht handeln.
 
-**Wer sind die Opfer der Ungerechtigkeit? - Die Täterperspektive der
+**Wer sind die Opfer der Ungerechtigkeit? Die Täterperspektive der
 Gerechtigkeitstheorie**
 
 Oftmals ist man sich selbst gegenüber ungerecht und gibt sich Schuld für Dinge, die man
 nicht getan hat als eine Art selbst Bestrafung.[^4] Oft bedarf es einen Außenstehenden, um die Täter und Opferrolle bestimmen zu können.[^5] Um aber unparteiisch zu sein, dürfte man nicht
-dem Täter im Ganzen betrachten, sondern nur seine Tat^6. Aristoteles Standpunkt ist es, dass
+dem Täter im Ganzen betrachten, sondern nur seine Tat[^6]. Aristoteles Standpunkt ist es, dass
 sich ungerechte selbst schaden, indem sie ihren Charakter mit Habgier verderben.[^7] Wenn
 Habgier als einziges Motiv feststeht, führt es dazu, dass Großzügigkeit ebenso ungerecht ist.
 Deswegen bedeutet eine ungerechte Politik, auch den Verlust von Hemmung beim kollektiven
@@ -598,7 +598,7 @@ Ungerechtigkeit. Ein Opfer zu charakterisieren ist für Shklar unmöglich,[^9] d
 auch morgen zu einem Täter werden. Ein Täter zu sein hat einen natürlichen Ursprung, denn
 er hat einen Charakter, der zu dem geformt wurde, was er heute ist.
 
-**Wer sind die Opfer der Ungerechtigkeit? - Die Opferperspektive der
+**Wer sind die Opfer der Ungerechtigkeit? Die Opferperspektive der
 Gerechtigkeitstheorie**
 
 Als Opfer geht man in einen Rückzug, bei dem man sich aus der Opferrolle zurückziehen
