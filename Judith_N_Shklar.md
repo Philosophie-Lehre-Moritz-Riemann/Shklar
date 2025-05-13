@@ -534,4 +534,115 @@ Passive Ungerechtigkeit: Wie man ein schlechter Bürger ist (S. 67ff.)
 > Gruppe 4: Wer sind die Opfer der Ungerechtigkeit?: Wie beschreibt Shklar die Opferperspektive der Gerechtigkeitstheorie?
 
 
+### Protokoll von Käthe-Marie Wieseler
+
+In der Sitzung vom 06.05.2025 wurde sich mit vier großen Fragestellungen beschäftigt, die
+inhaltlich auf zwei Schwerpunkte des Buches Über Ungerechtigkeit von Judith N. Shklar
+zurückgehen. Zum einen lag der Fokus auf dem Begriff des Skeptizismus und dessen
+Bedeutung im Kontext von Gerechtigkeit und politischem Denken. Zum anderen haben wir
+untersucht, wer als Opfer von Ungerechtigkeit gilt und wie diese Opferrollen gesellschaftlich
+konstruiert und wahrgenommen werden.
+
+**Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit**
+
+Shklar versteht den Begriff Skeptizismus in Bezug auf Gerechtigkeit als einen Zweifel an der
+Gültigkeit und Wirksamkeit des herkömmlichen Gerechtigkeitsmodells. Skeptizismus äußert
+sich in diesem Fall insbesondere im politischen und erkenntnistheoretischen Sinne. Bei Shklar
+nehmen die Skeptiker ihren Ausgang von der Selbstsicherheit und Gerissenheit der
+gewöhnlichen, institutionellen Gerechtigkeit und zudem aus der Erschütterung über die Übel
+der Zeit.[^1] Hierbei handelt es sich um eine kritische Haltung gegenüber gesellschaftlich
+anerkannten Überzeugungen, insbesondere im Hinblick auf rechtliche Legalität und
+moralische Normen. Ein wesentlicher Punkt ist, dass der Skeptizismus an die Selbstsicherheit
+stößt. Das Gegenstück zu dem Skeptizismus ist Akzeptanz. Die Skeptiker akzeptieren nicht
+einfach die bestehenden Systeme, sondern hinterfragen, ob das, was als gerecht gilt, tatsächlich gerecht ist oder nur als solches erscheint. Erst wenn man Gewissheit erlangt, kann
+man dogmatisch sein.
+
+"Es mag wohl sein, dass ich diese Art Skeptiker vom gewöhnlichen Verständnis immer weiter
+entfernen, weil die Übel der Zeit sie erschüttern". Zeitgemäß geht es um Ungerechtigkeiten in
+der Zeit von Platon und Montaigne.[^2] Platon litt unter der Umstrukturierung Roms zur
+christlichen Machtübernahme und Montaigne war mitten in einem Französischen Bürgerkrieg
+im 16.Jhd. Von dieser Zeit wird gesprochen, weil die Moralphilosophie dort in der Zeit in
+Trümmern lag. In diesem Zusammenhang gibt es immer ein Zweifeln oder Verzweifeln.
+
+Skeptiker sagen nicht die konstitutionelle Sichtweise sei schlecht.[^3] Meist ist es eine politische
+Entscheidung welche man als ungerecht ansieht. Ist politische Theorie der Skeptizismus?
+Nein, aber politische Theorie braucht ein gewisses Maß an skeptischen Fragen.
+
+Skeptiker sind aus Krisenzeiten hervorgegangen und haben sich durch diese Krisen
+entwickelt. Wir versuchen immer skeptisch zu sein in jeder Theorie.
+
+**Warum ist Gerechtigkeit Für Platon einer Erkenntnisproblem?**
+
+Platon verwirft das herkömmliche Modell von Gerechtigkeit. Er ist nicht der Auffassung, dass
+man durch Beobachtung der gesellschaftlichen Realität zu Erkenntnis von Gerechtigkeit
+gelangen kann, denn diese Realität sei durch Ungerechtigkeit geprägt. Somit sollten die
+Menschen nur nach Notwendigkeit handeln, sich von festen Regeln lösen und nicht nach dem
+richten, was wir uns wünschen. Ein Hinblick auf eine gerechte Ordnung wird von Platon nicht
+gegeben. Es darf nur so weit gehen, dass es den Menschen gut geht, sie aber nicht anfangen,
+andere Menschen auszunutzen. Somit gibt es bei Platon weniger Wahl und
+Entscheidungsfreiheit und ist eine relativ monarchisch obligatorische Regelung. Da wir nicht
+wissen können, was Gerechtigkeit ist, können wir auch nicht, wenn wir vor Entscheidungen
+stehen, gerecht handeln.
+
+**Wer sind die Opfer der Ungerechtigkeit? - Die Täterperspektive der
+Gerechtigkeitstheorie**
+
+Oftmals ist man sich selbst gegenüber ungerecht und gibt sich Schuld für Dinge, die man
+nicht getan hat als eine Art selbst Bestrafung.[^4] Oft bedarf es einen Außenstehenden, um die Täter und Opferrolle bestimmen zu können.[^5] Um aber unparteiisch zu sein, dürfte man nicht
+dem Täter im Ganzen betrachten, sondern nur seine Tat^6. Aristoteles Standpunkt ist es, dass
+sich ungerechte selbst schaden, indem sie ihren Charakter mit Habgier verderben.[^7] Wenn
+Habgier als einziges Motiv feststeht, führt es dazu, dass Großzügigkeit ebenso ungerecht ist.
+Deswegen bedeutet eine ungerechte Politik, auch den Verlust von Hemmung beim kollektiven
+Handeln.[^8] Oftmals ist der Unterschied für eine Außenstehende Person nur das Verständnis der
+Ungerechtigkeit. Ein Opfer zu charakterisieren ist für Shklar unmöglich,[^9] denn ein Opfer kann
+auch morgen zu einem Täter werden. Ein Täter zu sein hat einen natürlichen Ursprung, denn
+er hat einen Charakter, der zu dem geformt wurde, was er heute ist.
+
+**Wer sind die Opfer der Ungerechtigkeit? - Die Opferperspektive der
+Gerechtigkeitstheorie**
+
+Als Opfer geht man in einen Rückzug, bei dem man sich aus der Opferrolle zurückziehen
+kann und möchte. Opfer müssen eine Art Selbstidentifikation besitzen und es sich selbst
+eingestehen.[^10] Durch Werte und Normen, die einem beigebracht werden, will man sich häufig
+aus der Opferrolle zurücknehmen. Die aktive Annahme der Opferrolle ist somit komplex: sie
+kann als notwendig und legitim angesehen werden, um Unrecht sichtbar zu machen, aber auch
+als problematisch, wenn sie mit gesellschaftlicher, schwäche oder Passivität assoziiert wird.
+
+Ein zentraler Gedanke ist hier auch die Vorstellung, dass die Person die Unrecht tut, am Ende
+schlechter dran ist als diejenige, die das Unrecht er leidet. Die Sichtweise dreht die gängige
+Perspektive um: nicht das Opfer, sondern der Täter wird als der eigentlich verletzte angesehen
+nicht auf der Ebene des psychisch physischen Schadens, sondern im Hinblick auf die
+moralische Integrität und die seelische Verfassung. Dies ist ein Erkenntnistheoretisches
+Problem und wird als Innersubjektive Opferumkehr verstanden.[^11]
+
+
+**Literatur**
+
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage, MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021
+
+
+[^1]: Vgl. S. 36.
+[^2]: Vgl. S. 36.
+[^3]: Vgl. S. 38.
+[^4]: Vgl. S. 52.
+[^5]: Vgl. S. 51.
+[^6]: Vgl. S. 54.
+[^7]: Vgl. S. 51.
+[^8]: Vgl. S. 52.
+[^9]: Vgl. S. 60.
+[^10]: Vgl. S. 65.
+[^11]: Vgl. S. 64.
+
+
+## 3. Sitzung am 13.05.2025
+
+Textgrundlage: S. 67--83
+
+**Passive Ungerechtigkeit**
+
+![l'ingiustizia](Giotto_Ingiustizia.jpg)
+
+
+
+
 
