@@ -288,11 +288,11 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 - Flathman, Richard E.: Fraternal, but not Always Sisterly Twins. Negativity and Positivity in Liberal Theory, in: Social Research 66(1999)4, S. 1137-1142.
 
-- Fiser, Webb S., [Rezension zu: Judith N. Shklar, After Utopia], in: Ethics 68, no. 3 (1958), S. 217-219.
+- Fiser, Webb S., [Rezension zu: Judith N. Shklar, After Utopia], in: Ethics 68, no. 3 [1958), S. 217-219.
 
 - Fives, Allyn: [The unnoticed monism of Judith Shklar’s liberalism of fear](https://journals.sagepub.com/doi/full/10.1177/0191453719849717)- - Allyn Fives: [The unnoticed monism of Judith Shklar’s liberalism of fear](https://journals.sagepub.com/doi/full/10.1177/0191453719849717)
 
-- Forrester, Katrina, „Hope and Memory in the Thought of Judith Shklar", in: Modern Intellectual History 8, Nr. 3 (2011), S. 159.
+- Forrester, Katrina, „Hope and Memory in the Thought of Judith Shklar", in: Modern Intellectual History 8, Nr. 3 [2011), S. 159.
 
 
 - Hall, Edward, „Ideological Self-Consciousness: Judith Shklar on Legalism, Liberalism, and the Purposes of Political Theory", in: Social Philosophy & Policy 2024;41(1):105-125. doi:10.1017/S0265052524000347.
@@ -305,82 +305,82 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 
 - Honneth, Axel, „Die Historizität von Furcht und Verletzung. Sozialdemokratische Züge im Denken von Judith Shklar", in: ders., Vivisektionen eines Zeitalters. Porträts zur Ideengeschichte des 20. Jahrhunderts (Berlin: Suhrkamp 2014), S. 248-262.
 
-- Ignatieff, Michael, [Rezension zu: Judith N. Shklar, Ordinary Vices], in: The Political Quarterly 56, Nr. 3 (1985), S. 309-312.
+- Ignatieff, Michael, [Rezension zu: Judith N. Shklar, Ordinary Vices], in: The Political Quarterly 56, Nr. 3 [1985), S. 309-312.
 
 - Levinson, Sanford, „Is Liberal Nationalism an Oxymoron? An Essay for Judith Shklar" S. 626-645.
 
 - Memorial Tributes to Judith Nisse Shklar, 1928-1992. A Service in Memory of Judith Nisse Shklar, Cowles Professor of Government, Harvard University, 24 September 1928-17 September 1992. The Memorial Church, Harvard University, Friday, 6 November 1992 (Cambridge, Mass. 1992).
 
-- Misra, Shefali, „Ugly Attachments: Judith Shklar and the Unattractive Face of Solidarity", in: Global Intellectual History 7, Nr. 4 (2022): S. 685-701.
+- Misra, Shefali, „Ugly Attachments: Judith Shklar and the Unattractive Face of Solidarity", in: Global Intellectual History 7, Nr. 4 [2022): S. 685-701.
 
 - Moyn, Samuel, „Before - and Beyond - the Liberalism of Fear", in: Samantha Ashenden und Andreas Hess (Hg.), Between Utopia and Realism. The Political Thought of Judith N. Shklar (Philadelphia: University of Pennsylvania Press 2019), S. 24-46.
 
-- Moyn, Samuel, „Judith Shklar über die Philosophie des Völkerstrafrechts", , in: Deutsche Zeitschrift für Philosophie 62, Nr. 4 (2014), S. 683-707.
+- Moyn, Samuel, „Judith Shklar über die Philosophie des Völkerstrafrechts", , in: Deutsche Zeitschrift für Philosophie 62, Nr. 4 [2014), S. 683-707.
 
 - Müller, Jan-Werner, Furcht und Freiheit. Für einen anderen Liberalismus (Berlin: Suhrkamp 2019).
 
 - Pickford, Eleanor: [Judith Shklar on the problem of political motivation](https://www.repository.cam.ac.uk/items/cbfac99e-182f-435e-b46e-b25755c0c65f) 
 
-- Sabl, Andrew, „Judith Shklar, Ordinary Vices, in: Jacob T. Levy (Hg.), The Oxford Handbook of Classics in Con-temporary Political Theory (Oxford: Oxford University Press 2019), https://doi.org/10.1093/oxfordhb/9780198717133.013.5.
+- Sabl, Andrew, „Judith Shklar, Ordinary Vices, in: Jacob T. Levy [Hg.), The Oxford Handbook of Classics in Con-temporary Political Theory [Oxford: Oxford University Press 2019), https://doi.org/10.1093/oxfordhb/9780198717133.013.5.
 
-- Salaverría, Heidi, „Ungeregelte Zweifel und politische Urteilsbildung bei Judith Shklar und Jacques Rancière", in: Deutsche Zeitschrift für Philosophie 62, Nr. 4 (2014), S. 708-726.
+- Salaverría, Heidi, „Ungeregelte Zweifel und politische Urteilsbildung bei Judith Shklar und Jacques Rancière", in: Deutsche Zeitschrift für Philosophie 62, Nr. 4 [2014), S. 708-726.
 
-- Ulrich, Amadeus, „Furcht und Elend in der Demokratie. Zur Aktualität des politischen Denkens von Judith N. Shklar", , in: Zeitschrift für Politische Theorie 13, Nr. 1-2 (2023), S. 69-89.
+- Ulrich, Amadeus, „Furcht und Elend in der Demokratie. Zur Aktualität des politischen Denkens von Judith N. Shklar", , in: Zeitschrift für Politische Theorie 13, Nr. 1-2 [2023), S. 69-89.
 
-- Unrau, Christine, „Judith Shklars Sinn für Veränderung", in: Zeitschrift für Politische Theorie 9, Nr. 2 (2018[2020]), S. 239-251.
+- Unrau, Christine, „Judith Shklars Sinn für Veränderung", in: Zeitschrift für Politische Theorie 9, Nr. 2 [2018[2020]), S. 239-251.
 
-- Voigt, Peter, „Skepsis und Sozialdemokratie - Mésalliance oder Zukunftsbündnis? Ein Plädoyer im Anschluss an Judith Shklar", in: Zeitschrift für Politische Theorie 9, Nr. 2 (2018 [2020]), S. 223-238.
+- Voigt, Peter, „Skepsis und Sozialdemokratie - Mésalliance oder Zukunftsbündnis? Ein Plädoyer im Anschluss an Judith Shklar", in: Zeitschrift für Politische Theorie 9, Nr. 2 [2018 [2020]), S. 223-238.
 
 - Walzer, Michael, „Über negative Politik", in: Shklar, Der Liberalismus der Furcht, S. 87-105.
 
-- Wolin, Sheldon S., [Rezension zu: Judith N. Shklar, After Utopia], in: Natural Law Forum 5 (1960), S. 163-177.
+- Wolin, Sheldon S., [Rezension zu: Judith N. Shklar, After Utopia], in: Natural Law Forum 5 [1960), S. 163-177.
 
--	Zeitschrift für Theoretische Philosophie:[Themenheft zur Shklars politischer Philosophie](hhttps://shop.budrich.de/wp-content/uploads/2022/01/1869-3016-2018-2.pdf).
+-	Zeitschrift für Theoretische Philosophie:[Themenheft zur Shklars politischer Philosophie][hhttps://shop.budrich.de/wp-content/uploads/2022/01/1869-3016-2018-2.pdf).
 
-- Rieke Trimçev: [Verbindlichkeitskonflikte und politische Verpflichtung](https://www.ssoar.info/ssoar/bitstream/handle/document/66276/ssoar-zpth-2018-2-trimcev-Verbindlichkeitskonflikte_und_politische_Verpflichtung.pdf?sequence=2&isAllowed=y&lnkname=ssoar-zpth-2018-2-trimcev-Verbindlichkeitskonflikte_und_politische_Verpflichtung.pdf).
-
-
-### Judith Shklar im Netz (Auswahl)
-
--	[Die politische Philosophie der Judith N. Shklar - Liberalismus ohne Illusionen](https://www.br.de/mediathek/podcast/radiowissen/die-politische-philosophie-der-judith-n-shklar-liberalismus-ohne-illusionen/1853684).
-
--	[Judith N. Shklar: „Über Hannah Arendt“. Kritik unter Geistesgrößen](https://www.deutschlandfunkkultur.de/judith-n-shklar-ueber-hannah-arendt-kritik-unter-100.html).
-
-- [Buchkritik von H. Bajohr](https://www.deutschlandfunkkultur.debuchkritik-ad-judith-n-shklar-von-hannes-bajohr-rieke-trimcev-dlf-kultur-6782831d-100.html).
-
-- [Literaturkritik: Nora Ecker - Wir schauen zu gerne weg](https://literaturkritik.de/shklar-ueber-ungerechtigkeit,28533.html).
-
-- [MacArthur Foundation: Judith N. Shklar](https://www.macfound.org/fellows/class-of-march-1984/judith-n-shklar).
-
-- [Seyla Benhabib:Judith Nisse Shklar](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/3/949/files/2016/05/Judith-Nisse-Shklar-1928-1992-Proceedings-of-the-APA-1vyo0j1.pdf).
-
-- [Bunk:Judith N. Shklar](https://www.bunkhistory.org/tags/persons/judith-n-shklar).
-
-- [Alexander Cammann(Zeit Online): Judith Shklar. Triumph einer Außenseiterin](https://www.zeit.de/2017/27/judith-nisse-shklar-philosophin-liberalismus-sammelband).
-
-- [Katharina Kaufmann (Theorieblog): Dialog zwischen einer Exilantin und einem Staatsbürger – Lesenotiz zu Judith Shklar über „Verpflichtung, Loyalität, Exil“](https://www.theorieblog.de/index.php/2019/12/dialog-zwischen-einer-exilantin-und-einem-staatsbuerger-lesenotiz-zu-judith-shklar-ueber-verpflichtung-loyalitaet-exil/).
-
-- [Dr. Sandra von Siebenthal:Judith Shklar: Liberalismus der Furcht (Rezension)](https://denkzeiten.com/2023/06/26/judith-shklar-liberalismus-der-furcht/).
-
-- [Wikipedia: Judith Shklar](https://de.wikipedia.org/wiki/Judith_N._Shklar).
-
-- [Michael Knoll (intellectures): Liberalismus und Demokratie führen eine Zweckehe](https://www.intellectures.de/2021/03/29/liberalismus-und-demokratie-fuehren-eine-zweckehe/).
+- Rieke Trimçev: [Verbindlichkeitskonflikte und politische Verpflichtung][https://www.ssoar.info/ssoar/bitstream/handle/document/66276/ssoar-zpth-2018-2-trimcev-Verbindlichkeitskonflikte_und_politische_Verpflichtung.pdf?sequence=2&isAllowed=y&lnkname=ssoar-zpth-2018-2-trimcev-Verbindlichkeitskonflikte_und_politische_Verpflichtung.pdf).
 
 
-### Podcastsendungen (Auswahl)
+### Judith Shklar im Netz [Auswahl)
 
--	[Podcast Filosofie: Judith Shklar](https://podcasts.apple.com/de/podcast/judith-shklar/id1451841760?i=1000646349383).
+-	[Die politische Philosophie der Judith N. Shklar - Liberalismus ohne Illusionen][https://www.br.de/mediathek/podcast/radiowissen/die-politische-philosophie-der-judith-n-shklar-liberalismus-ohne-illusionen/1853684).
 
--	[Required Reading from: Liberalism of Fear by Judith Shklar](https://podcasts.apple.com/de/podcast/liberalism-of-fear-by-judith-shklar/id1786599014?i=1000681133134).
+-	[Judith N. Shklar: „Über Hannah Arendt“. Kritik unter Geistesgrößen][https://www.deutschlandfunkkultur.de/judith-n-shklar-ueber-hannah-arendt-kritik-unter-100.html).
 
--	[SWR. Das Wissen: Die Politologin Judith Shklar](https://podcasts.apple.com/de/podcast/die-politologin-judith-nisse-shklar-wie-demokratien/id104913043?i=1000501341831).
+- [Buchkritik von H. Bajohr][https://www.deutschlandfunkkultur.debuchkritik-ad-judith-n-shklar-von-hannes-bajohr-rieke-trimcev-dlf-kultur-6782831d-100.html).
+
+- [Literaturkritik: Nora Ecker - Wir schauen zu gerne weg][https://literaturkritik.de/shklar-ueber-ungerechtigkeit,28533.html).
+
+- [MacArthur Foundation: Judith N. Shklar][https://www.macfound.org/fellows/class-of-march-1984/judith-n-shklar).
+
+- [Seyla Benhabib:Judith Nisse Shklar][https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/3/949/files/2016/05/Judith-Nisse-Shklar-1928-1992-Proceedings-of-the-APA-1vyo0j1.pdf).
+
+- [Bunk:Judith N. Shklar][https://www.bunkhistory.org/tags/persons/judith-n-shklar).
+
+- [Alexander Cammann[Zeit Online): Judith Shklar. Triumph einer Außenseiterin][https://www.zeit.de/2017/27/judith-nisse-shklar-philosophin-liberalismus-sammelband).
+
+- [Katharina Kaufmann [Theorieblog): Dialog zwischen einer Exilantin und einem Staatsbürger – Lesenotiz zu Judith Shklar über „Verpflichtung, Loyalität, Exil“][https://www.theorieblog.de/index.php/2019/12/dialog-zwischen-einer-exilantin-und-einem-staatsbuerger-lesenotiz-zu-judith-shklar-ueber-verpflichtung-loyalitaet-exil/).
+
+- [Dr. Sandra von Siebenthal:Judith Shklar: Liberalismus der Furcht [Rezension)][https://denkzeiten.com/2023/06/26/judith-shklar-liberalismus-der-furcht/).
+
+- [Wikipedia: Judith Shklar][https://de.wikipedia.org/wiki/Judith_N._Shklar).
+
+- [Michael Knoll [intellectures): Liberalismus und Demokratie führen eine Zweckehe][https://www.intellectures.de/2021/03/29/liberalismus-und-demokratie-fuehren-eine-zweckehe/).
+
+
+### Podcastsendungen [Auswahl)
+
+-	[Podcast Filosofie: Judith Shklar][https://podcasts.apple.com/de/podcast/judith-shklar/id1451841760?i=1000646349383).
+
+-	[Required Reading from: Liberalism of Fear by Judith Shklar][https://podcasts.apple.com/de/podcast/liberalism-of-fear-by-judith-shklar/id1786599014?i=1000681133134).
+
+-	[SWR. Das Wissen: Die Politologin Judith Shklar][https://podcasts.apple.com/de/podcast/die-politologin-judith-nisse-shklar-wie-demokratien/id104913043?i=1000501341831).
 
 -	[Talking Politics: Shklar on Hypocrisy](https://podcasts.apple.com/de/podcast/shklar-on-hypocrisy/id1508992867?i=1000517869772).
 -	
 
 ## 2. Sitzung am 29.04.2025
 
-Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit (S. 29ff.); Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit (S. 36ff.)
+Textgrundlage: 1 -- Der Ungerechtigkeit Gerechtigkeit widerfahren lassen; Gerechtigkeit und Ungerechtigkeit [S. 29ff.); Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit [S. 36ff.)
 
 ## Protokoll von Nele Guddat
 
@@ -395,7 +395,7 @@ Fragen aufwirft.
 Shklar beginnt mit der Unterscheidung zwischen **Unglück** und **Ungerechtigkeit**.
 Ersteres wird als unbeeinflussbares — oft naturgegebenes — Ereignis gesehen.
 Beispiele könnten Naturgewalten darstellen. Ungerechtigkeit hingegen besteht, wenn
-durch Handeln oder auch Nichthandeln (passive Ungerechtigkeit)[^2] direkter Einfluss auf
+durch Handeln oder auch Nichthandeln [passive Ungerechtigkeit)[^2] direkter Einfluss auf
 eine Situation entsteht, durch welche Leid verursacht wird.[^3] Bereits bei der
 Unterscheidung beider Begriffe zeigen sich Grauzonen. So können auch durch den
 menschengemachten Klimawandel Naturkatastrophen hervorgerufen werden, die nun
@@ -517,9 +517,9 @@ Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl,
 
 **Textgrundlage:** 
 
-Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit (S.36ff.)
-Wer sind die Opfer der Ungerechtigkeit? (S. 50ff.)
-Passive Ungerechtigkeit: Wie man ein schlechter Bürger ist (S. 67ff.)
+Zweifel an der Gerechtigkeit im Reich der Ungerechtigkeit [S.36ff.)
+Wer sind die Opfer der Ungerechtigkeit? [S. 50ff.)
+Passive Ungerechtigkeit: Wie man ein schlechter Bürger ist [S. 67ff.)
 
 ### Gruppenarbeit
 
@@ -618,7 +618,7 @@ Problem und wird als Innersubjektive Opferumkehr verstanden.[^11]
 
 **Literatur**
 
-Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage, MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage, MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 
 [^1]: Vgl. S. 36.
@@ -642,7 +642,93 @@ Textgrundlage: S. 67--83
 
 ![l'ingiustizia](Giotto_Ingiustizia.jpg)
 
+### Protokoll von Yasmina El Hanafy
+
+**Sitzungsthema:**
+
+1.Passive Ungerechtigkeit als politisches und gesellschaftliches Problem.
+2. Erziehung zur passiven Ungerechtigkeit.
+3. Deutung des Bildes “L ́ Ingiustizia“ als Darstellung von Ungerechtigkeit.
 
 
+In der Sitzung vom 13.05.2025 haben wir uns mit der passiven Ungerechtigkeit beschäftigt, die
+Judith Shklar in ihrem Werk „Über Ungerechtigkeit: Erkundung zu einem moralischen
+Gefühl“ behandelt. Dabei lag der Fokus darauf, wie Ungerechtigkeit nicht nur durch aktives
+Handeln, sondern auch durch Schweigen oder das Unterlassen von Verantwortung entstehen
+kann. Wir haben untersucht, inwiefern diese Ausprägung der Ungerechtigkeit anerzogen oder
+gesellschaftlich unterstützt wird und welche Rolle sie im politischen und sozialen
+Zusammenhang spielt.
+
+**1. Passive Ungerechtigkeit als politisches und gesellschaftliches Problem**
+
+
+Laut Shklar ist passive Ungerechtigkeit nicht an das aktives Handeln gebunden, sondern kann durch das Unterlassen einer Handlung entstehen, also durch Schweigen in Situationen, in denen Unrecht geschieht. Sie betrachtet das Thema aus einer politischen Sicht, da sie die Problematik der Ungerechtigkeit nicht nur als etwas Individuelles, sondern auch als ein politisches Problem versteht. Shklar unterscheidet zwischen aktiver Ungerechtigkeit, bei der jemand bewusst Schaden zufügt, und passiver, bei der Unrecht erkannt, aber nicht verhindert wird.[^1] Diese kann jede Person betreffen. Besonders ausgeprägt ist sie in autoritären Systemen wie Diktaturen, in denen sie oft nicht als Problem angesehen wird, weil das gesamte politische System davon geprägt ist. Shklar kritisiert Menschen, die ihre staatsbürgerlichen Pflichten nicht wahrnehmen.
+Gerade in einer Demokratie sollten Bürger Verantwortung tragen, da wir durch unsere Freiheiten
+und Rechte in der Lage sind, Recht und Unrecht zu unterscheiden und bewusst zu entscheiden,
+wie wir handeln[^2]. Wenn sich ein freier Staatsbürger nicht für andere einsetzt, wird er es auch
+nicht als Beamter tun, obwohl ein Staatsdiener dazu verpflichtet ist.[^3] Für Shklar heißt
+Gerechtigkeit nicht nur, dass Regeln eingehalten werden, sondern auch, Verantwortung zu
+übernehmen und Unrecht nicht zu verschweigen.
+
+Um ihre Theorie zu verdeutlichen, verwendet sie mehrere Beispiele. Eines davon ist die Gewalt
+gegenüber Familienmitgliedern: Wenn ein Mann seine Frau schlägt und diese Straftat
+möglicherweise aus Loyalität oder Angst nicht gemeldet wird, ist das ein Verstoß gegen die
+Pflicht als Staatsbürger. Auch wenn es sich um eine private Angelegenheit handelt. Dabei ist es
+wichtig, dass Bürger nicht nur ihre Pflichten wahrnehmen, sondern auch Verantwortung
+übernehmen[^4]. Ein weiteres Beispiel ist eine Situation im Supermarkt: Eine Frau steht hinter
+einem Mann an der Kasse und beobachtet, dass er zu wenig Wechselgeld zurückbekommt, sagt
+aber nichts. Auch dieses bewusste Nicht-Handeln ordnet Shklar als passive Ungerechtigkeit ein,
+denn das Unrecht hätte verhindert werden können[^5]. Es wird deutlich, dass Gerechtigkeit sich
+nicht nur auf aktives Unrecht bezieht, sondern auch dann gefordert ist, wenn Unrecht ignoriert
+wird. Wer wegschaut, macht sich mitschuldig.
+
+
+**2. Erziehung zur passiven Ungerechtigkeit**
+
+Die passive Ungerechtigkeit muss nicht umbedingt eine Ansicht sein, sondern kann auch
+anerzogen werden. Anstatt sich aktiv für Ungerechtigkeit einzusetzen, lernen sie bei Unrecht
+wegzuschauen und keine Verantwortung zu übernehmen[^6]. Laut Shklar wird es ihnen von klein
+auf beigebracht, sich nicht einzumischen oder sich von Problemen zu distanzieren[^7]. Dadurch
+entwickelt sich eine Gesellschaft, in der zwar kein Unrecht aktiv getan wird, aber trotzdem
+mitverantwortlich sind, weil sie nicht dagegen vorgehen.
+
+**3. Deutung des Bildes “L ́ Ingiustizia“ als Darstellung von Ungerechtigkeit** 
+
+Zum Abschluss haben wir ein Bild von L ́Ingiustizia von Giotto beschrieben und interpretiert.
+Dabei haben wir es in den Zusammenhang des Seminarthema miteingebracht und sind zu
+folgenden Ergebnissen gekommen: Auf dem Bild (siehe unten)[^8] ist eine übergroße, menschliche
+Gestalt zu sehen, die den Großteil des Bildes einnimmt. Es sitzt auf einem Thron und trägt ein
+königliches Gewand. In der rechten Hand hält es ein Schwert und in der linken Hand einen langen
+Stab. Die Finger haben lange Krallen, was unnatürlich wirkt. Der Gesichtsausdruck erscheint
+streng. Durch die Haltung und den unnatürlichen Eigenschaften, könnte es sich um einen König
+oder einen Gott handeln. Vor der Gestalt stehen Bäume, unter denen sich Gewalttaten abspielen.
+Es sind zwei Menschen abgebildet, die Gewalt an zwei anderen Menschen ausüben: Ein Mann
+zieht eine Frau gewaltvoll über den Boden. Neben dieser Gewalttat führt ein anderer Mann ein
+Pferd mit sich, was auf einen Diebstahl hindeuten könnte und gleichzeitig einen Mann, der auf
+dem Boden liegt und Tod erscheint. Die autoritäre Gestalt ignoriert das Geschehen und guckt zur
+Seite. Es ist präsent und hat auch die Macht einzugreifen, hält sich jedoch zurück. Das Bild
+veranschaulicht, Judith Shklar Verständnis von passiver Ungerechtigkeit und kann somit in diesen
+Zusammenhang eingebracht werden. Shklar versteht die passive Ungerechtigkeit als das
+Unterlassen von Handlungen gegen Unrecht, indem man nicht eingreift, obwohl man dazu in der
+Lage wäre, was durch die autoritäre Gestalt, die eingreifen könnte, es aber nicht tut, symbolisiert
+wird- Diese Figur kann in diesem Zusammenhang den Bürger oder Staatsdiener verkörpern, der
+seinen Pflichten und Verantwortungen nicht nachgeht[^9].
+
+Literatur:
+
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage,
+MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+
+
+
+[^1] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.
+[^2] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.
+[^3] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.
+[^4] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.72f.
+[^5] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.72f.
+[^6] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67
+[^7] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67
+[^8] Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.77.
+[^9] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.78f.
 
 
