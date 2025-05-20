@@ -743,6 +743,13 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 ## 5. Sitzung am 20.05.2025
 
+**Textgrundlage: 2 Unglück und Ungerechtigkeit: Wer trägt die Schuld? S. 85-108**
+
+Protokoll: Marlon Wieben 
+
+
+
+
 
 
 
