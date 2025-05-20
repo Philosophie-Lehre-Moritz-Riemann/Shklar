@@ -712,7 +712,7 @@ Zusammenhang eingebracht werden. Shklar versteht die passive Ungerechtigkeit als
 Unterlassen von Handlungen gegen Unrecht, indem man nicht eingreift, obwohl man dazu in der
 Lage wäre, was durch die autoritäre Gestalt, die eingreifen könnte, es aber nicht tut, symbolisiert
 wird- Diese Figur kann in diesem Zusammenhang den Bürger oder Staatsdiener verkörpern, der
-seinen Pflichten und Verantwortungen nicht nachgeht[^9].
+seinen Pflichten und Verantwortungen nicht nachgeht.[^9]
 
 Literatur:
 
@@ -721,14 +721,20 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 
 
-[^1] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.
-[^2] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.
-[^3] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.
-[^4] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.72f.
-[^5] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.72f.
-[^6] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67
-[^7] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67
+[^1] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 68.
+[^2] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 75.
+[^3] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 75.
+[^4] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 72f.
+[^5] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 72f.
+[^6] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67.
+[^7] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67.
 [^8] Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.77.
 [^9] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.78f.
+
+
+
+## 5. Sitzung am 20.05.2025
+
+
 
 
