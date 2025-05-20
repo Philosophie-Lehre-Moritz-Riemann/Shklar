@@ -722,13 +722,21 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 
 [^1] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 68.
+
 [^2] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 75.
+
 [^3] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 75.
+
 [^4] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 72f.
+
 [^5] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 72f.
+
 [^6] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67.
+
 [^7] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S. 67.
+
 [^8] Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.77.
+
 [^9] vgl. Shklar,Judith, „Über die Ungerechtigkeit: Erkundung zu einem moralischen Gefühl“, S.78f.
 
 
