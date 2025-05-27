@@ -745,11 +745,118 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 **Textgrundlage: 2 Unglück und Ungerechtigkeit: Wer trägt die Schuld? S. 85-108**
 
-Protokoll: Marlon Wieben 
+### Protokoll von Marlon Wieben
+
+In der Sitzung vom 20.05.2025 wurden drei Themenschwerpunkte des zweiten Kapitels „Unglück und Ungerechtigkeit“ des Buches „Über Ungerechtigkeit - Erkundungen zu einem moralischen Gefühl“[^1] von Judith N. Shklar besprochen. Zuerst wurde der Fokus auf das Erbeben von Lissabon (1755) und den damit einhergehenden gesellschaftlichen Umbruch im theologischen Denken sowie Einordnungen zeitgenössischer Philosophen gelegt. Darauf folgend wurde die Frage nach Schuld und dem damit verbundenen generellen Schuldbegriff aufgeworfen. Zum Abschluss wurde die Selbstanklage thematisiert.
+
+
+**Paradigmenwechsel der göttlichen Ansehung am Bespiel des Erdbeben von
+Lissabon (1755)**
+
+Shklar beschreibt das Erdbeben von Lissabon als einen Geburtstag der Neuzeit.[^2]
+Lissabon wurde am ersten November 1755 Opfer einer Verkettung gewaltiger
+Naturkatastrophen (Erdbeben, Brand und Tsunami). Shklar fokussiert sich hierbei
+jedoch nicht auf Opferzahlen und Zerstörungsschäden, sondern betrachtet das Erdbeben
+im Fokus intellektueller Reaktionen.
+Begründeten Menschen vorher ihre Frage nach dem „Warum?“ mit Gottes Plan, so
+bröckelte das Fundament der theologischen Narrheit, da ein so gewaltiges Leid an der
+Beteiligung eines gerechten Gottes zweifeln ließ. Die Denkweisen und Aussagen
+zeitgenössischer Philosophen wurden dabei zu Hilfe genommen.
+Voltaire schreibt das „Gedicht über die Katastrophe von Lissabon“[^3] als Gegenentwurf
+zu der Annahme, dass „alles was ist, gut ist“. Voltaires Gedicht veranlasst Rousseau, die
+göttliche Abkehr zu beschwichtigen. In seinen Augen liegt Voltaires Fehler nicht darin,
+Gott zu verschreien, sondern den Menschen ihre Hoffnung auf das jüngste Gericht - das
+gerechte Verfahren nach dem Tod, die Möglichkeit auf das Paradies - zu nehmen.[^4]
+
+Ratlosigkeit mündet schließlich in der Erkenntnis, dass Gott nichts mit der Katastrophe
+zu tun habe, und in der Zweiteilung Gott und Natur.
+Die Menschen sind nun nicht mehr mit Gott im Twist - zumindest wenn es um die Natur
+geht - und unterliegen somit nur noch sich selbst und einer „gleichgültigen Natur“.[^5]
+Die Gegenüberstellung einer zufälligen Natur mit menschlicher kausaler Kultur zeigt
+eine große Kluft auf. Shklar bezieht sich auf Rousseaus Aussage, dass der Mensch zwar
+nicht die Katastrophe, wohl aber die Auswirkung zu verschulden hat.[^6]
+
+Dazu wurde im Plenum der Kontrast von Rousseaus zu Hobbes untersucht. Hobbes
+vertritt die Meinung: „Der Mensch ist dem Menschen ein Wolf.“ Rousseau hingegen
+geht davon aus, dass der Mensch erst durch die gesellschaftlichen Strukturen von der
+reinen Güte abgekommen ist.
+Zudem zog Shklar Kants Reaktion auf das Erdbeben hinzu. Kant sagte, dass der
+Mensch, anstatt sich mit Technologie gegen die Natur zu rüsten, lieber die
+menschengemachten Katastrophen (Kriege) verhindern solle.[^7]
+
+**Schuldbegriff**
+
+
+Shklar schreibt, dass Schuld immer perspektivisch betrachtet werden kann. Wir können
+uns sowohl in Täter als auch in Opfer hineinversetzen.[^8]
+Die Dynamik der Schuldzuweisung allerdings fordert einen klaren Schuldigen, einen
+Sündenbock - „die wahrhaft ungerechteste und am wenigsten zu rechtfertigende
+Reaktion auf Unfälle und Katastrophen, vor allem wenn sie schwerwiegend sind“.[^9]
+Wir haben die Thematik des Sündenbocks am Beispiel eines in Brand geratenen Clubs
+in Boston[^10] thematisiert, dessen Akteure Shklar detailliert aufgezählt hat.
+Man versuchte, die Schuld auf den Bürgermeister und den Clubbesitzer abzuwälzen, da
+diese an der Spitze der Pyramide standen und ihnen somit mehr Verantwortung
+zugesprochen wurde, als sie eigentlich hatten. Die Katastrophe war eine systematische
+Verkettung, ohne absichtliches Handeln. Niemandem kann daher gänzlich die Schuld
+aufgelastet werden. Jedoch versuchte man, Kausalität herzustellen, wo es keine gab.
+Es wurde die Frage aufgeworfen, ob der Clubbrand eine Ungerechtigkeit, ein Unglück
+oder ein Unfall war. Wir konnten keine klare Benennung vornehmen, da die Perspektive
+für jeden Begriff eine andere ist und daher alle in einer bestimmten Art und Weise
+zutreffen. Wir einigten uns darauf, dass systematische Ungerechtigkeit - geht man
+davon aus, dass jeder Akteur eine Ungerechtigkeit begangen hatte, auch wenn er sich
+dem nicht bewusst war - zum Unglück führte.
+Doch auch in der Schuldzuweisung selbst findet man Ungerechtigkeit. Im Namen der
+Gerechtigkeit wurde von z.B. der Klatschpresse der schuldige Bürgermeister benannt
+und zum bestrafen aufgerufen, obwohl dieser, wenn dann, nur eine Teilschuld trug.[^11] Somit ist der Versuch, einen Sündenbock zu finden, eine Ungerechtigkeit in gerechter Absicht.
 
 
 
+**Selbstanklage**
 
 
+„Um zu verstehen, was Ungerechtigkeit ist, sind vor allem Opfer, die sich schuldig fühlen, von größter Bedeutung, denn sie sind ohne Zweifel sich selbst gegenüber ungerecht“, schreibt Shklar.[^12]
+
+Wir kamen zu dem Schluss, dass es keine Methode gibt, Menschen vor dem „Sich schuldig fühlen“ zu schützen, da sie sich dadurch oft selbst das Gefühl der Erleichterung zu verschaffen. Sätze wie „Ich hätte es verhindern können “ suggerieren Momente der
+Kontrolle. Man erlebt die vermeintliche Kontrolle nach und begibt sich für einen
+Augenblick in den Schuld auslösenden Moment.
+Wir befassten uns mit der Selbstanklage bei häuslicher Gewalt. Die Opfer häuslicher
+Gewalt geben sich oft selbst die Schuld an dem, was passiert ist, zumindest einen Teil
+davon, und reden sich ein: „Ich habe ihn ja auch provoziert.“ Somit bestimmen sie sich
+selbst als Auslöser des Geschehens und können sich vormachen, sie hätten, sollte es ein
+nächstes Mal geben, die Situation dann in der Hand. Danach haben wir das Phänomen des Victim Blaming anhand von KZ-Insassen
+besprochen, welche für das Überleben, das aus Sicht der russischen Armee nur durch
+Kollaboration erreicht werden konnte, bestraft wurden, indem man sie gefangen nahm.
+Shklar schreibt: „Solange wir den Glauben an eine gerechte Welt aufrechterhalten
+können, ist selbst ein ungerechtes Universum erträglicher als ein sinnloses.“[^13]
+Können wir uns die Ungerechtigkeit nicht erklären, greifen wir nach höheren Instanzen.
+Die Moralität der höheren Gewalt wird nach und nach durch Regierungsanklagen
+verdrängt. Unternehmen und Staatsapparate ersetzen Gott in modernen Fragen als
+Sündenbock.[^14] Jedoch ist nicht jede Naturkatastrophe trotz der Notwendigkeit
+menschlichen Handelns ein Staatsversagen. Wie wir zuvor besprochen hatten, hängen in
+komplexen Verkettungen viele schuldtragende Rollen, passiv wie aktiv, mit drin.
+
+
+
+[^1]: Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage, MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+[^2]: Vgl. S. 87.
+[^3]: Vgl. S. 89.
+[^4]: Vgl. S. 89.
+[^5]: Vgl. S. 87.
+[^6]: Vgl. S. 89.
+[^7]: Vgl. S. 91.
+[^8]: Vgl. S. 92.
+[^9]: Vgl. S. 100.
+[^10]: Vgl. S. 101
+[^11]: Vgl. S. 102.
+[^12]: Vgl. S. 99.
+[^13]: Vgl. S. 97.
+[^14]: Vgl. S. 99.
+
+
+## 6. Sitzung am 27.05.2025
+
+Textgrundlage: Unglück und Ungerechtigkeit S. 108-134
+
+Protokoll: Jördis Voß 
 
 
