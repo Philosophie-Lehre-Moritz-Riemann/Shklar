@@ -750,8 +750,7 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 In der Sitzung vom 20.05.2025 wurden drei Themenschwerpunkte des zweiten Kapitels „Unglück und Ungerechtigkeit“ des Buches „Über Ungerechtigkeit - Erkundungen zu einem moralischen Gefühl“[^1] von Judith N. Shklar besprochen. Zuerst wurde der Fokus auf das Erbeben von Lissabon (1755) und den damit einhergehenden gesellschaftlichen Umbruch im theologischen Denken sowie Einordnungen zeitgenössischer Philosophen gelegt. Darauf folgend wurde die Frage nach Schuld und dem damit verbundenen generellen Schuldbegriff aufgeworfen. Zum Abschluss wurde die Selbstanklage thematisiert.
 
 
-**Paradigmenwechsel der göttlichen Ansehung am Bespiel des Erdbeben von
-Lissabon (1755)**
+**Paradigmenwechsel der göttlichen Ansehung am Bespiel des Erdbeben von Lissabon (1755)**
 
 Shklar beschreibt das Erdbeben von Lissabon als einen Geburtstag der Neuzeit.[^2]
 Lissabon wurde am ersten November 1755 Opfer einer Verkettung gewaltiger
