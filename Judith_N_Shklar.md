@@ -856,6 +856,83 @@ komplexen Verkettungen viele schuldtragende Rollen, passiv wie aktiv, mit drin.
 
 Textgrundlage: Unglück und Ungerechtigkeit S. 108-134
 
-Protokoll: Jördis Voß 
+### Protokoll von Jördis Voß 
+
+In der Sitzung vom 27.05.2025 wurde der zweite Teil des Kapitels „Unglück und
+Ungerechtigkeit“ aus dem Buch „Über Ungerechtigkeit – Erkundungen zu einem
+moralischen Gefühl“ von Judith N. Shklar behandelt. Der Kurs wurde zunächst in zwei
+Gruppen eingeteilt, um zentrale Thesen und Beispiele aus dem Text zu analysieren.
+Anschließend wurden die Ergebnisse im Plenum zusammengetragen und diskutiert.
+
+**Geschlechterungerechtigkeit als Unglück**
+
+Ein zentrales Thema der Diskussion war die von Shklar dargestellte
+Geschlechterungerechtigkeit. Die Autorin argumentiert, dass es als ein Unglück gilt, als
+Frau geboren zu sein, und untermauert dies mit verschiedenen literarischen Beispielen.
+
+Zum einen nimmt sie Bezug auf Thomas Hardys Roman *Tess von den d’Urbervilles* , in
+dem das Frausein als mythischer Fluch dargestellt wird. Das Unglück resultiert aus dem
+Konflikt zwischen Natur und Kultur.[^1] Shklar nimmt auch Bezug auf Shulamith Firestone,
+die auf die biologische Reproduktionsrolle der Frau verweist und diesen als historischen
+Ursprung des Unglücks sieht.[^2] Aus dieser Perspektive ergeben sich gegenwärtige
+Ungerechtigkeiten, etwa der eingeschränkte Zugang zu fortpflanzungserleichternden
+Technologien. Simone de Beauvoir formuliert: „Es war immer eine Ungerechtigkeit, eine
+Frau zu sein“. Sie sieht die Ursache in einem Zusammenspiel natürlicher und kultureller
+Faktoren.[^3]
+
+Auch durch Anpassungsstrategien, wie eine Heirat mit einem wohlhabenden Mann, ändern sich laut Shklar nicht die zugrunde liegenden kulturellen Strukturen und Bedingungen, unter denen Frauen leben. In diesem Zusammenhang wurde im Plenum auf die Autorin Jane Austen verwiesen, deren literarische Werke die strukturelle Abhängigkeit von Frauen beleuchten.
+
+Angelehnt an Beauvoir formuliert Shklar einen Lösungsansatz. Sie betont dabei, dass man sich dem Unglück als Frau geboren zu sein, nicht untätig unterwerfen solle.[^4]
+
+Frauen sollen das „Unglück“, in eine bestimmte gesellschaftliche Struktur hineingeboren worden zu sein, nicht passiv hinnehmen, sondern aktiv mit Bedeutung füllen und sich davon befreien.
+
+**Die Hungersnot in Irland im 19. Jahrhundert**
+
+Ein weiteres diskutiertes Beispiel war die Große Hungersnot in Irland. Shklar schildert,
+wie die britische Regierung ihren Unwillen deutlich machte, auf die Notlage zu reagieren.
+Der Politiker Charles Trevelyan, der für die Verwaltung der Hilfsprogramme in Irland
+zuständig war, betrachtete die Hungersnot als „Lösung für die Überbevölkerung“.[^5]
+
+Im Seminar wurde diskutiert, dass der Ernteausfall ein natürliches Unglück darstellte,
+während die mangelnde Reaktion der Regierung als politisch verursachte Ungerechtigkeit
+bewertet wurde. Einige Iren sahen die Not als göttliche Heimsuchung, andere als
+vermeidbare Katastrophe, die durch staatliches Handeln hätte verhindert werden können.[^6]
+Im Plenum kamen wir zu dem Ergebnis, dass der Ernteausfall selbst unvermeidbar war
+und demnach ein natürliches Unglück darstellt. Die daraus folgende Hungersnot
+verdeutlicht jedoch eine ungleiche Verteilung von Ressourcen, und das staatliche Nicht-
+Handeln eine politische Ungerechtigkeit dar.
+
+**Die Politik der Notwendigkeit**
+
+Shklar beschreibt die Politik der Notwendigkeit, als Strategie der Rechtfertigung, mit der
+das Nicht-Handeln begründet wird.[^7] Es wurde in Kürze skizziert, dass es tragische
+Notwendigkeiten und politische Notwendigkeiten gibt. Tragödien stellen seltene,
+unausweichliche Situation dar, während sich politische Notwendigkeit auf Zurückhaltung
+bezieht, durch die tatsächliche Ungerechtigkeiten verschleiert werden.
+
+**Schlussreflexion**
+
+Abschließend zum Unterkapitel „Wann wird Unglück zu Ungerechtigkeit?“ kamen wir
+zu dem Schluss, dass sowohl die Geschlechterungleichheit als auch die Hungersnot
+natürliche Vorkommnisse sind, die jedoch im Rahmen der Gesellschaft zu
+Ungerechtigkeit führen.
+
+**Literatur**
+
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage, MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 
+[^1]: Judith N. Shklar, *Über Ungerechtigkeit : Erkundungen zu einem moralischen Gefühl*, 1. Aufl., Hannes Bajohr (Berlin: Matthes & Seitz, 2021), 109.
+[^2]: Vgl. Shklar, 110.
+[^3]: Vgl. Shklar, 110.
+[^4]: Vgl Shklar, 110.
+[^5]: Vgl. Shklar, 114.
+[^6]: Vgl. Shklar, 115.
+[^7]: Vgl. Shklar, 117.
+
+
+## 7. Sitzung am 03.06.2025
+
+Textgrundlage: 3 Der Sinn für Ungerechtigkeit S. 135-148
+
+Protokoll: Julian Lehmitz 
