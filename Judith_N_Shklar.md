@@ -1043,3 +1043,6 @@ Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl,
 Textgrundlage: Der Schrei der Opfer nach Rache, S. 148-165
 
 Protokoll: Emmelie Bauer
+
+
+
