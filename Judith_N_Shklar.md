@@ -935,4 +935,111 @@ Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl,
 
 Textgrundlage: 3 Der Sinn für Ungerechtigkeit S. 135-148
 
-Protokoll: Julian Lehmitz 
+### Protokoll von Julian Lehmitz 
+
+
+
+**Einleitung**
+
+In der Sitzung vom 03.06.2025 haben wir primär das dritte Kapitel „Der Sinn für
+Ungerechtigkeit“ des Werkes „Über Ungerechtigkeit – Erkundung zu einem
+moralischen Gefühl“ von Judith N. Shklar behandelt.[^1]
+
+Bevor das Hauptthema der Sitzung jeodch diskutiert wurde, haben wir anfangs den
+Bogen zu der letzten Seminarstunde gespannt und noch einmal die Diskussion über die
+Politik der Notwendigkeit vertieft. Nachdem dieses Thema besprochen wurde, haben
+wir uns dann dem Sinn für Ungerechtigkeit gewidmet und die Positionen von
+Aristoteles sowie Rousseau zu dieser Thematik diskutiert, was uns dann letztendlich
+zum Fazit von Shklar geführt hat, womit wir die Sitzung beendet haben.
+
+**Die Politik der Notwendigkeit**
+
+Zuerst wurde mit der Frage gestartet, was für eine Rolle die Notwendigkeit für Unglück
+und Ungerechtigkeit im Rahmen der Politik einnimmt. Eine Idee dazu war die
+Verknüpfung zum Marxismus, indem man die Ausbeutung der Arbeiterklasse als
+Notwendigkeit sieht, um das höhere, gute Ziel zu erreichen, was sich in Shklars‘ Werk
+jedoch nicht wirklich wiederfinden lässt. In ihrem Sinne folgt aus der Notwendigkeit
+nämlich eher eine Festigung der bestehenden Institutionen und keine Revolution.[^2] Des
+Weiteren erwähnt Shklar auch den Standpunkt von Milton Friedman und sagt, dass es
+„[i]m Reich der Notwendigkeit [...] widersinnig [ist], über Ungerechtigkeit zu klagen“,[^3]
+weshalb sich herausbildet, dass Ungerechtigkeit für manche Freiheiten obligatorisch ist.[^4] Diese Erkenntnis hat uns unmittelbar zur Position von Hayek geführt, welcher die
+Verteilungsgerechtigkeit, also die primäre Gerechtigkeit, als eine Illusion des
+politischen Liberalismus ansieht und der Meinung ist, dass Gerechtigkeit und somit
+auch Ungerechtigkeit nur zwischen Personen stattfinden kann und nicht zwischen
+Kollektiven, was im Umkehrschluss bedeutet, dass jeder für sich selbst verantwortlich
+ist und alle die gleichen Chancen haben. Eine wirklich materielle Gerechtigkeit gibt es
+für Hayek also nicht.[^5]
+
+Shklar selbst hingegen vertritt aber den politischen Liberalismus und ist der Auffassung,
+dass es ohne eine gerechte ökonomische Verteilung keine Freiheit geben kann. Sie sieht
+die Verteilungsgerechtigkeit also als eine Notwendigkeit an.[^6]
+
+Abschließend kann man also sagen, um auch die letzte Seminarsitzung noch
+miteinzubeziehen, dass es diverse Möglichkeiten gibt, die Notwendigkeit im politischen
+Rahmen zu interpretieren. Sei es Machiavelli, der unmoralische Taten als
+Notwendigkeit betrachtet, um dem höheren Ziel zu dienen und damit man um jeden
+Preis an der Macht bleibt oder die eben erwähnten Persönlichkeiten, es hängt stark vom
+Menschenbild und dem zu erstrebenden Ziel ab.
+
+**Der (demokratische) Sinn für Ungerechtigkeit**
+
+Vorerst haben wir Shklars‘ erste Definition von dem Sinn für Ungerechtigkeit
+herausgearbeitet, welche besagt, dass es eine Art von Zorn über die Vorenthaltung von
+Dingen ist, die uns vermeintlich zustehen und/oder versprochen worden sind. Zudem
+kann er entstehen, wenn wir selbst, aber auch andere betroffen sind, was im zweiten Fall
+dazu führt, dass der Sinn politisch wird. Zudem ergänzt Shklar noch, dass der Sinn für
+Ungerechtigkeit unmissverständlich ist.[^7]
+
+Danach haben wir uns mit der Frage beschäftigt, was für eine Rolle der Sinn für
+Ungerechtigkeit in der aristotelischen Philosophie spielt. Für Aristoteles geht es dabei
+vor allem um die primäre Gerechtigkeit und das Gefühl, für eine bestimmte Leistung, zu
+wenig zu bekommen. Wichtig ist dabei aber, dass dieses Empfinden von
+Ungerechtigkeit und Empörung hoch individuell und an eine soziale Ordnung geknüpft ist. Dies haben wir am Beispiel einer Prinzessin und eines Hofnarren verdeutlicht,
+indem man annimmt, dass die Prinzessin, welche gesellschaftlich gesehen mehr Ehre
+und Ansehen besitzt, eine größere Kränkung und somit Ungerechtigkeit erfährt als der
+Hofnarr. Somit machten wir auch klar, dass die Kränkung der Ehre proportional zu der
+schon vorhandenen Menge an Ehre steht. Außerdem kann man noch erwähnen, dass die
+Ebene, auf welcher sich Aristoteles hier bewegt, sehr ökonomisch, beziehungsweise im
+damaligen Sinne auf die Verteilung von gesellschaftlichen Gütern, gerichtet ist.[^8]
+
+Rousseau hingegen sieht den Sinn für Ungerechtigkeit als eine „menschliche
+Disposition“[^9] und etwas Natürliches. Jedoch findet aufgrund unserer Gesellschaft eine
+Veränderung statt, welche darin mündet, dass wir unseren natürlichen Sinn für
+Ungerechtigkeit unterdrücken.[^10] Es wird also zu einem sozialen Gefühl und einem
+politisch bedeutsamen Phänomen. Dafür sorgt unsere Kultur, denn schon Kinder sollen
+diesen natürlichen und angeborenen Sinn haben, losgelost von jeglichen
+Gerechtigkeitssystemen.[^11] Daraus hat sich ergeben, dass Rousseau die Zivilisation im
+Gegensatz zu Aristoteles als einen negativen Einfluss auf den eigentlich guten
+Menschen ansieht.
+
+Shklar zieht daraus das Fazit, dass es auf der einen Seite die private Ebene der
+Ungerechtigkeit gibt und auf der anderen Seite die politische Ebene. Laut Shklar
+verlernen wir, ähnlich wie Rousseau es sagt, in unserer gekränkten Ehre, Empörung
+auszudrücken. Man soll zwar nicht allen Menschen einen gleichen Sinn für
+Ungerechtigkeit einräumen, ihnen aber gleichzeitig das Aussprechen ihrer Empörung
+gewähren, was eine Verknüpfung zwischen den beiden Positionen von Aristoteles und
+Rousseau herstellt.[^12]
+
+**Literatur**
+
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage, MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+
+[^1]: Judith N. Shklar, *Über Ungerechtigkeit: Erkundungen zu einem moralischen Gefühl*, 1. Aufl., Hannes Bajohr (Berlin: Matthes & Seitz, 2021), 135.
+[^2]: Vgl. Shklar, 129 ff.
+[^3]: Shklar, 128.
+[^4]: Vgl. Shklar, 128.
+[^5]: Vgl. Shklar, 128 f.
+[^6]: Vgl. Shklar, 129 ff.
+[^7]: Vgl. Shklar, 137.
+[^8]: Vgl. Shklar, 140.
+[^9]: Shklar, 141.
+[^10]: Vgl. Shklar, 141.
+[^11]: Vgl. Shklar, 143 ff.
+[^12]: Vgl. Shklar, 148.
+
+
+## 8. Sitzung am 10.06.2025
+
+Textgrundlage: Der Schrei der Opfer nach Rache, S. 148-165
+
+Protokoll: Emmelie Bauer
