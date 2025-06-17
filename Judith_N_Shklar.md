@@ -1147,7 +1147,13 @@ von Hannes Bajohr, Matthes & Seitz Berlin, 2021.
 
 ### Giotto: *La Giustizia* (1306)
 
-[Giotto Giustizia]()
+![Giustizia](Giotto_Giustizia.jpeg)
+
+
+### Nochmal Ingiustizia
+
+
+![Ingiustizia](Giotto_Ingiustizia.jpg)
 
 
 ## 10. Sitzung am 24.06.2025
