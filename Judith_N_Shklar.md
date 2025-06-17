@@ -1042,7 +1042,119 @@ Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl,
 
 Textgrundlage: Der Schrei der Opfer nach Rache, S. 148-165
 
-Protokoll: Emmelie Bauer
 
+
+## Protokoll von Emmelie Bauer
+
+**Der demokratische Sinn für Ungerechtigkeit – das Problem des Schweigens**
+
+Wie soll sowohl das Individuum als auch die zuständige Institution damit umgehen, wenn
+Menschen, die sich im Sinn für Ungerechtigkeit verletzt fühlen, aber über ihre Empfindung und Erfahrung schweigen? Shklar schreibt die Demokratietheorie müsse darauf bestehen, dass „normale Menschen“[^1] nicht die gleiche Auslegung des Begriffs der Ungerechtigkeit brauchen, sondern nur die Möglichkeit sich zu äußern, sofern sie verletzt wurden.[^2] Hierbei entsteht das Problem: Wenn es normale Menschen gibt, gibt es zwangsläu-ig auch nicht normale Menschen. Der *nicht normale* Mensch muss jedoch, so wie jede:r
+andere, Recht anklagen, obwohl sie die Möglichkeit der Äußerung nicht haben. Dadurch kommt es dazu, dass das Unrecht, das _nicht normalen_ Menschen angetan wird, unentdeckt beziehungsweise unbekannt ist. _Normale_ Menschen müssen in einer Demokratie
+die Möglichkeit haben ihrer erlebten Ungerechtigkeit einen Ausdruck zu verleihen, unabhängig von zum Beispiel ihrer sozialen Klasse oder Herkunft.
+
+
+**Bezugspunkt der Gegenwart**
+
+
+Drei Asylsuchende klagen gegen ihre Zurückweisung, dabei müssen sie bürokratische
+Hürden auf sich nehmen, weil sie sich ihr Recht zuerst einklagen müssen. Ist das, trotz
+der Tatsache, dass die Gerichte und seine Entscheidungen in einem demokratischen
+Rechtssystem abgehandelt werden, noch demokratisch?
+Staaten haben das Recht darauf Zuwanderung zu regulieren. Das Asylrecht stellt eine
+Ausnahme auf dieses Recht dar. Deutschland ist Signatarstaat der Genfer Konventionen
+und somit völkerrechtlich an sie gebunden; Deutschland muss sich der Verantwortung
+bezüglich des Flüchtlingsschutzes stellen. Abgewiesen werden dürfen nur die Menschen,
+die aus einem sicheren Drittstaat einreisen, was aufgrund Deutschlands geographischer
+
+
+
+[^1]: Judith N. Shklar: _Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl_ , hrsg. von Hannes Bajohr 2 , Matthes & Seitz Berlin, 2021, S. 148.
+[^2]: Vgl. Shklar, Über Ungerechtigkeit, S. 148.
+
+
+Lage bequem ist, denn Deutschland ist von sicheren Drittstaaten umgeben und hat keine
+EU-Außengrenzen.
+Jeder Fall systematischer Ungerechtigkeit hat eigene diskursive Vorurteile, aber ihr Prinzip ist gleichbleibend. Menschen müssen ihren Sinn für (Un-)Gerechtigkeit äußern dürfen. Die Demokratie lebt von der Gleichstellung ihrer Bürger:innen.
+
+**Rache – der ideengeschichtliche Kontext**
+
+
+Dike ist eine griechische Göttin, die für _Dikaiosýnē_ (Gerechtigkeit) zuständig ist, allerdings ist eine weitere Bedeutung von Dike Rache. Für die Rache zuständig ist Eris. Es
+besteht in der griechischen Mythologie ein starker Zusammenhang zwischen Gerechtigkeit und Rache in einem veralteten Gerechtigkeitsverständnis. Aufgabe der Gerechtigkeit
+ist es die Rache-Spirale zu zerbrechen und eine Instanz der Vermittlung zu sein.
+
+
+**Rache in Romanen**
+
+
+Michael Kohlhaas‘ (in _Michael Kohlhaas_ von Heinrich von Kleist) Pferde werden von
+einem Junker beschlagnahmt woraufhin er eine Gruppe an Bauern mobilisiert, die die
+Region in Schreck versetzt. Der brandenburgische Kurfürst nimmt sich dem Fall an, sorgt
+dafür, dass der Junker ins Gefängnis kommt, Kohlhaas seine Pferde zurückbekommt und
+seine Kinder auf eine Schule für adelige Pagen gehen.[^3] Wegen seiner Bauerngruppierung,
+die der Region Angst machte, wird er hingerichtet. Es werden äquivalente Gegenleistungen für erbrachte Leistung erbracht; die Gerechtigkeit ist eine ausgleichende. Kohlhaas
+nimmt allerdings eine bewusste Rache an dem sächsischen Kurfürsten, der ihn hintergangen hatte. Kohlhaas schluckt ein Papier, dass dem Kurfürsten sein Schicksal vorausgesagt
+hätte.
+Coalhouse Walker (in _Ragtime_ von E. L. Doctorow) ist ein schwarzer Mann in den USA
+zu Beginn des 20. Jahrhunderts. Sein Auto wird von einemrassistischen Feuerwehrhauptmann zerstört. Er versucht auf dem Rechtsweg Abhilfe zu schaffen, allerdings muss er
+feststellen, dass er wegen der Diskriminierung keine Erfolgschancen hat. Ebenso wie
+Kohlhaas mobilisiert er eine Gruppierung. Sie begeht Brandstiftung an Feuerwachen, erschießt Menschen und besetzt eine Villa. Daraufhin werden die Behörden aktiv und zwingen die Feuerwehrleute Walkers Auto zu reparieren. Walker wird sofort danach von der
+Polizei erschossen.
+Ein Teil der Gesellschaft hat nicht die Möglichkeit Gerechtigkeit über den legalen
+Weg zu erfahren, da ihre Stimmen nicht gehört werden, weswegen sie zu gewalttätigen
+
+
+[^3]: Vgl. Shklar, Über Ungerechtigkeit, S. 156.
+
+
+Handlungsoptionen übergehen. Durch „Gewaltakte [...] würden sie aus Opfern zu freien
+Menschen.“[^4] Es wird argumentiert, Gewalt gegen die Unterdrückenden sei legitim. Jedoch muss man anerkennen, dass das langfristig zu einem ungesunden Gemeinwesen führen wird. Nichtsdestoweniger spricht Shklar der Caolhouse Walker Gruppierung eine legitime politische Position zu, indem sie behauptet, man könne die Taten zu einem „gerechten Krieg“[^5] erklären, gleichzeitig merkt sie an, dass Vergeltung nicht das Problem
+der Unterdrückung oder Diskriminierung löst.[^6]
+Shklar definiert Rache als „die spontane Reaktion auf Ungerechtigkeit.“[^7] Rache ist subjektiv, impulsiv, meist gewalttätig und selbst in ihrem Kern ungerecht.
+
+**Gerechtigkeit ist unbefriedigend**
+
+
+Man selbst ist kaum aktiv an den Prozessen der juridischen Gerechtigkeit beteiligt und
+empfindet weniger Emotionen als bei einem Racheakt, denn man darf von Mitbürger:innen erwarten sich an Gesetzte und Normen zu halten. Hinzu kommt das zu milde Strafempfinden. Der Wunsch nach Rache wird von institutioneller Seite nicht befriedigt.
+
+
+**Fazit**
+
+
+Shklar ist rational auf der Seite der institutionellen Gerechtigkeit. Trotz der Nachvollziehbarkeit der Empfindung soll und kann Rache die juridische Gerechtigkeit nicht ersetzen;
+umgekehrt gilt das Gleiche.[^8]
+
+**Literaturbasis:**
+
+Judith N. Shklar: _Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl_ , hrsg.
+von Hannes Bajohr, Matthes & Seitz Berlin, 2021.
+
+
+[^4]: Shklar, Über Ungerechtigkeit, S. 158.
+[^5]: Shklar, Über Ungerechtigkeit, S. 161.
+[^6]: Shklar, Über Ungerechtigkeit, S.162.
+[^7]: Shklar, Über Ungerechtigkeit, S. 148f.
+[^8]: Shklar, Über Ungerechtigkeit, S. 164 f.
+
+
+## 9. Sitzung am 17.06.2025
+
+**Textgrundlage:** Das Unbehagen an öffentlicher Gerechtigkeit, S. 165--182
+
+**Protokoll:**: Jannik Steenbock 
+
+### Giotto: *La Giustizia* (1306)
+
+[Giotto Giustizia]()
+
+
+## 10. Sitzung am 24.06.2025
+
+
+**Textgrundlage:** Primäre Ungerechtigkeit?, S. 165--182
+
+**Protokoll:**: Sina Gruber
 
 
