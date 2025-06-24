@@ -1143,7 +1143,7 @@ von Hannes Bajohr, Matthes & Seitz Berlin, 2021.
 
 **Textgrundlage:** Das Unbehagen an öffentlicher Gerechtigkeit, S. 165--182
 
-**Protokoll:**: Jannik Steenbock 
+
 
 ### Giotto: *La Giustizia* (1306)
 
@@ -1154,6 +1154,93 @@ von Hannes Bajohr, Matthes & Seitz Berlin, 2021.
 
 
 ![Ingiustizia](Giotto_Ingiustizia.jpg)
+
+### Protokoll von Jannik Steenbock 
+
+**La Giustizia**
+
+Am Anfang des behandelten Kapitels analysiert Shklar die Darstellung von Gerechtigkeit in
+Giottos Giustizia. Die Allegorie La Giustizia zeigt eine weibliche Figur, die ruhig auf einem
+kunstvoll gestalteten Thron sitzt. In ihren Händen hält sie ein Schwert und eine Waage
+klassische Symbole der Gerechtigkeit. Sie sitzt ruhig, mit heiterem Ausdruck, mit einer
+Waage in der einen und einem Schwert in der anderen Hand. Ihre Haltung ist gemessen und
+majestätisch.[^1] Diese Darstellung der Gerechtigkeit, so sagt Shklar, zeigt ein Bild von Ordnung
+und Gleichgewicht, doch Sie schaut uns direkt an, aber nicht als Ansprechende ihre Miene ist
+ruhig, beinahe gleichgültig.[^2] Das Bild ist nicht abstoßend, aber auch nicht mitreißend. Die
+Gerechtigkeit wird zu einer Figur, nicht zur handelnden Kraft. Gerechtigkeit wirkt hier wie ein
+Zustand, nicht wie ein Prozess.[^3] So stellt die Autorin kritisch fest, dass die Darstellung gerade
+durch ihre Schönheit und Ausgewogenheit eine emotionale Distanz schafft Das Bild ist
+schön, aber nicht inspirierend. Es fehlt das Moment der moralischen Bewegung.[^4]
+
+
+**Ingiustizia**
+
+Im Gegensatz dazu steht Giottos Darstellung der Ungerechtigkeit – Ingiustizia. Diese Figur
+wirkt kaputt, der Gesichtsausdruck ist hart, ihr Thron instabil. Chaos und Bedrohung
+dominieren das Bild. Ingiustizia ist hässlich, verzerrt und dominiert vom Ausdruck der
+Unordnung.[^5] Die Autorin betont, dass das Bild der Ungerechtigkeit viel unmittelbarer wirkt
+Während die Gerechtigkeit Ruhe ausstrahlt, zeigt Ungerechtigkeit eine dynamische,
+furchterregende Kraft.[^6] Anders als die schöne, aber statische La Giustizia erzeugt Ingiustizia
+beim Betrachter ein einprägendes Gefühl. Das Bild der Ungerechtigkeit rührt uns an es
+macht betroffen.[^7] Hier beginnt Shklars zentrale These Ungerechtigkeit ist erfahrungsnäher,
+sie wird gefühlt und bewegt zum Handeln.
+
+**Politischer Kontext**
+
+Shklar überträgt ihre Bildanalyse auf politische Kontexte, insbesondere auf Demokratien. Sie
+kritisiert, dass Verfahrensgerechtigkeit oft als ausreichend angesehen wird, obwohl sie kaum
+mit individuellen Gerechtigkeitsgefühlen übereinstimmt. Gerechtigkeit im institutionellen
+Sinne bleibt fremdbestimmt, abstrakt, und oft unberührend.[^8] Sie beschreibt ein
+demokratisches Paradox Obwohl Verfahren richtig ablaufen, kann der Eindruck entstehen, es
+werde Unrecht begangen, weil individuelle Geschichten und Lebensrealitäten ausgeblendet
+werden. Verfahrensgerechtigkeit ist kein Ersatz für persönliche Anerkennung. Sie erscheint
+kühl und gleichgültig.[^9] Shklar nennt ein konkretes Beispiel aus den USA. Die Diskussion um eine staatliche Krankenversicherung. Obwohl eine solche Maßnahme vielen Menschen
+helfen würde, werde sie als kommunistisch verleumdet. In den USA wird die
+Krankenversicherung als Angriff auf die Freiheit gesehen obwohl sie das Leben vieler
+verbessern würde.[^10] Dies zeigt für Shklar, dass der kollektive Sinn für Ungerechtigkeit ein
+wichtiger Impuls für politische Veränderung ist Ein geteiltes Empfinden für Ungerechtigkeit
+kann der Ausgangspunkt für demokratisches Handeln sein.[^11]
+
+**Rolle der Frau in Gerechtigkskeitsbildern**
+
+Die Autorin reflektiert auch die Rolle von Frauen in der Gerechtigkeitsvorstellung sowohl
+symbolisch als auch im Leben. Die Gerechtigkeit ist in der Bildsprache weiblich, doch Justitia
+ist schön, aber stumm. Sie spricht nicht, sie urteilt nicht selbst – sie steht nur da.[^12] Die
+Darstellung ist symbolisch, nicht aktiv. Shklar verweist auf historische Ungleichheiten die
+schon lange herrschen. Schon im 16. Jahrhundert bemerkte Montaigne, dass Frauen
+systematisch von Gerechtigkeit ausgeschlossen werden.[^13] Damit zeigt sie, dass Frauen zwar
+als Symbolfiguren auftreten, in der politischen Realität jedoch kaum als Akteurinnen
+vorkommen. Der weibliche Körper steht in der Darstellung für Ordnung und Passivität in der
+Praxis erleben Frauen aber oft strukturelle Ungerechtigkeit.
+
+**Fazit**
+
+Judith Shklar stellt fest, dass die Vorstellung von Gerechtigkeit kulturell geprägt ist. Dem
+gegenüber steht die Erfahrung von Ungerechtigkeit sie ist schmerzhaft, greifbarer und
+politischer Startfaktor für Aktionen. Shklar schreibt dazu, das man politische Theorie nicht
+bei abstrakten Idealen belassen soll, sondern schon bei der alltäglichen Erfahrung von
+Unrecht zu beginnen besonders aus der Perspektive benachteiligter Gruppen wie Frauen,
+deren Erlebnisse oft übersehen werden.
+
+**Literaturverzeichnis**
+
+Judith N. Shklar: Über Ungerechtigkeit. Erkundung zu einem moralischen Gefühl, 1. Auflage,
+MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
+
+
+[^1]: Vgl. Shklar S. 165
+[^2]: Vgl. Shklar S. 165
+[^3]: Vgl. Shklar S. 167
+[^4]: Vgl. Shklar S. 167
+[^5]: Vgl. Shklar S. 169
+[^6]: Vgl. Shklar S. 169
+[^7]: Vgl. Shklar S. 169
+[^8]: Vgl. Shklar S. 171
+[^9]: Vgl. Shklar S. 174
+[^10]: Vgl. Shklar S. 173
+[^11]: Vgl. Shklar S. 173
+[^12]: Vgl. Shklar S. 165
+[^13]: Vgl. Shklar S. 173
 
 
 ## 10. Sitzung am 24.06.2025
