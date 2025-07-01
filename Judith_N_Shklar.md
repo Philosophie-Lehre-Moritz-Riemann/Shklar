@@ -1250,4 +1250,15 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 
 **Protokoll:**: Sina Gruber
 
+## 11. Sitzung am 01.07.2025
+
+### Inkshedding: Themenfindung
+
+1. Faltet ein DIN A4-Blatt vertikal in der Mitte. Vervollständigt auf der linken Seite des Knicks den nachfolgenden Satz. Nutzt die komplette linke Seite und schreibt möglichst leserlich! Ihr habt 10 Minuten Zeit.
+
+> Der Aspekt … interessiert mich besonders an Judith Shklars Ungerechtigkeitstheorie, weil …
+
+1. Anschließend werden alle Zettel eingesammelt, gemischt und erneut ausgeteilt. Lest den (hoffentlich fremden) Text und markiert und kommentiert die Punkte, die ihr besonders gut und spannend findet. Achtet auf interessante Inhalte und kommentiert immer positiv, etwa so: „Großartige Idee! Dazu fällt mir auch ein, dass …“. Dazu stehen 5 Minuten zur Verfügung.
+2. Wir wiederholen 2. ein zweites Mal.
+
 
