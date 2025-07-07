@@ -1262,3 +1262,65 @@ MSB Matthes&Seitz, herausgegeben von Hannes Bajohr, Berlin 2021.
 2. Wir wiederholen 2. ein zweites Mal.
 
 
+## Abschlusssitzung am 8.7.2025
+
+**Abschlussdiskussion**
+
+>Nehmt Euch 5 Minuten Zeit, um für Euch die folgenden Fragen zu beantworten:
+>
+>1. Welche zentralen Überlegungen, Begriffe, Konstellationen nehmt Ihr mit aus der Shklarlektüre?
+>2. Gibt es offene Fragen und Verständnisprobleme?
+
+
+### Take Home Klausur
+
+Christian-Albrechts-Universität zu Kiel
+
+Philosophisches Seminar
+
+Sommersemester 2025
+
+Seminar: Judith N. Shklar: Über Ungerechtigkeit
+
+E-mail: riemann@philsem.uni-kiel.de
+
+
+**Hinweise zur Bearbeitung**
+
+1) Bitte beachten Sie die formalen Vorgaben für schriftliche Arbeiten im Fach Philosophie.
+
+2) Bitte benutzen Sie für die Titelseite die entsprechende Vorlage (als Download auf der Instituts-Website).
+
+3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Zitieren Sie präzise und wenn möglich direkt aus dem Text. Gehen Sie für die Recherche in die Bibliothek. Arbeiten Sie bei der Beantwortung der Fragen mit Primärtext und Forschungsliteratur (min. 1 Sekundärtext pro Frage). 
+
+4) Die Klausur ist selbständig zu verfassen. Die Verwendung von Large Language Models / Textgenerierenden AI-Sprachmodellen wie ChatGPT ist nicht zulässig. Die entsprechende eidesstattliche Erklärung (Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden.
+
+5) Abgabetermin ist der 31.08.2025. Eine Verlängerung der Abgabefrist ist ausgeschlossen. Die Abgabe erfolgt ausgedruckt an der Hauptpforte oder im Abgabekasten im Erdgeschoss der LS 4 **sowie** elektronisch per Email.
+
+
+**Aufgabenstellung**
+
+Bitte wählen Sie aus den folgenden Fragen zwei aus und beantworten diese auf insgesamt
+5-6 Seiten (zzgl. Deckblatt und Literaturverzeichnis)
+
+
+1. Bestimmen Sie das Verhältnis der Hauptbegriffe Unglück und Ungerechtigkeit. (2-3 Seiten)
+2. Erklären Sie das Phänomen "Passive Ungerechtigkeit" in Shklars Buch und geben Sie Beispiele. (2-3 Seiten)
+3. Diskutieren Sie das Verhältnis von Rache und Gerechtigkeit unter Berücksichtigung der rationalen und emotionalen Aspekte. Ziehen Sie dabei eine weitere philosophische Position zu Rate. (2-3 Seiten)
+4. Warum ist Täter-Opfer-Umkehr für Shklar (auch) ein ideengeschichtliches Problem? (2-3 Seiten)
+
+
+**Viel Erfolg und fröhliche Wissenschaft!**
+
+
+### Feedbackrunde
+
+> Nehmt Euch nochmal 3 Minuten Zeit, um für Euch die folgenden Fragen zu beantworten:
+>
+> 1. Was hat Euch gut gefallen am Seminar?
+> 2. Was hat Euch nicht so gut gefallen?
+> 3. War das Lesepensum und das Arbeitstempo angemessen?
+> 4. Was wünscht Ihr Euch für zukünftige Seminare?
+
+
+
