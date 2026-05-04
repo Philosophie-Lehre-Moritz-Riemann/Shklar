@@ -393,3 +393,62 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 -	[SWR. Das Wissen: Die Politologin Judith Shklar][https://podcasts.apple.com/de/podcast/die-politologin-judith-nisse-shklar-wie-demokratien/id104913043?i=1000501341831).
 
 -	[Talking Politics: Shklar on Hypocrisy](https://podcasts.apple.com/de/podcast/shklar-on-hypocrisy/id1508992867?i=1000517869772).
+
+
+
+## 3. Sitzung am 27.04.2026
+
+### Protokoll von Lucas Adutwum
+
+**Thema der Sitzung**
+
+Grausamkeit und Opfer in Judith N. Shklars Ganz normale Laster
+
+**1. Begrüßung und Rückblick**
+
+Zu Beginn der Sitzung wurde an die vorherige Sitzung angeknüpft. Im Mittelpunkt stand erneut die Frage, wie Judith N. Shklar den Begriff der Grausamkeit bestimmt und warum sie Grausamkeit als größtes Laster versteht. Dabei wurde festgehalten, dass Grausamkeit nicht einfach mit Gewalt gleichzusetzen ist. Gewalt kann in bestimmten historischen, politischen oder religiösen Kontexten legitimiert werden; Grausamkeit dagegen entzieht sich einer solchen Rechtfertigung.
+
+**2. Warum Grausamkeit an erster Stelle steht**
+
+Ein zentrales Thema der letzten Sitzung war die Frage, weshalb Shklar Grausamkeit an die erste Stelle der Laster setzt. In der Diskussion wurde deutlich, dass damit eine Verschiebung gegenüber religiösen Moralsystemen verbunden ist. Während dort etwa Stolz als Todsünde gilt, steht bei Shklar nicht die Verletzung einer göttlichen Ordnung im Vordergrund, sondern das konkret verursachte menschliche Leid.
+
+Stolz kann zwar mit Grausamkeit verbunden sein, ist aber nicht unbedingt deren Ursache und kann daher nicht als oberstes Laster gelten. Grausamkeit tritt gerade dadurch hervor, dass sie keine tragfähige Legitimierung besitzt. Sie kann nicht mit Verweis auf Religion, Tugend, Erziehung, Politik oder ein höheres Ziel gerechtfertigt werden. Historische Beispiele – etwa Gewalt im Namen des Christentums – zeigen, dass solche Rechtfertigungen häufig eher Formen der Selbsttäuschung darstellen als echte Begründungen.
+
+**3. Zwischenergebnis: Grausamkeit an erster Stelle**
+
+Die Sitzung arbeitete heraus, dass „Grausamkeit an erste Stelle setzen“ nicht bedeutet, einzelne grausame Handlungen in eine Rangordnung zu bringen. Es geht also nicht darum, abstrakt zu entscheiden, welche Handlung „schlimmer“ ist. Vielmehr bedeutet es, menschliches Verhalten grundsätzlich unter dem Gesichtspunkt zu betrachten, dass Grausamkeit unbedingt vermieden werden muss.
+
+**4. Opfer-Thematik: Was ist ein Opfer? (ab S. 24)**
+
+Im zweiten Teil der Sitzung wurde die Opfer-Thematik behandelt. Ausgangspunkt war die Frage, was es bedeutet, jemanden als Opfer zu bezeichnen. Dabei zeigte sich ein grundlegender Zwiespalt: Wenn Menschen ausschließlich als Opfer erscheinen, droht ihnen ihre Individualität und damit ein Teil ihrer Menschlichkeit genommen zu werden. Sie erscheinen dann als völlig machtlos, fast wie Objekte, denen jede Handlungsmöglichkeit abgesprochen wird.
+
+Gleichzeitig ist es problematisch, Opfern Verantwortung zuzuschreiben. Denn wenn man ihnen Handlungsmöglichkeiten unterstellt, kann der Eindruck entstehen, sie seien für ihr Leiden mitverantwortlich.
+
+Es wurde festgehalten, dass grundsätzlich jeder Mensch Opfer werden kann. Opfersein ist keine feste Eigenschaft, sondern eine mögliche Situation.
+
+**5. Individualität, Namenlosigkeit und Heroisierung**
+
+Ein weiterer Schwerpunkt lag auf der Frage, warum manche Opfer erinnert und benannt werden, während andere in einer anonymen Masse verschwinden. Am Beispiel Roxana wurde diskutiert, dass sie ebenso Opfer von Usbek ist wie andere Figuren, die weniger sichtbar bleiben. Daraus ergab sich die Frage, ob Opfer „mehr Opfer“ sind, nur weil sie genannt oder literarisch hervorgehoben werden.
+
+Die Sitzung hielt fest, dass Opfersein häufig zur Gruppierung führt. Dadurch kann Individualität verloren gehen: Aus einzelnen Menschen werden „namenlose Opfer“, wodurch ihre Menschlichkeit erneut bedroht wird.
+
+**6. Täter, Verantwortung und Handlungsmacht**
+
+Im weiteren Verlauf wurde diskutiert, ob Shklar sich zu stark auf die Opferperspektive konzentriert und die Täter dadurch zu wenig berücksichtigt werden. Dabei wurde herausgearbeitet, dass Opfer – in Anlehnung an Jean-Paul Sartre – erst durch Täter geschaffen werden: Ohne Täter gibt es keine Opferrolle (S. 28).
+
+Zugleich wurde deutlich, dass Verantwortung und Handlungsmacht eng zusammenhängen. Wenn alle Verantwortung ausschließlich dem Täter zugeschrieben wird, kann das Opfer als völlig machtlos erscheinen und damit erneut entmenschlicht werden. Wird dem Opfer hingegen Verantwortung zugeschrieben, entsteht die Gefahr, ihm Handlungsmöglichkeiten zu unterstellen und damit eine Mitschuld an seinem Leiden zu implizieren.
+
+**7. Tapferkeit, Mut, Feigheit und Grausamkeit**
+
+Abschließend wurde die Rolle von Tapferkeit und Feigheit diskutiert. Tapferkeit kann nicht einfach als Gegenbegriff zur Grausamkeit gelten, da auch Täter sich selbst als mutig oder tapfer darstellen können.
+
+Besonders problematisch ist, dass Opfern nicht nur nachträglich heroische Eigenschaften zugeschrieben werden, sondern dass von ihnen Tapferkeit teilweise sogar erwartet wird (S. 29). Diese Erwartung ist fragwürdig, da Opfer nicht freiwillig in ihre Lage geraten.
+
+**8. Abschluss und Ergebnis der Sitzung**
+
+Als zentrales Ergebnis wurde festgehalten, dass Grausamkeit bei Shklar keine legitimierende Grundlage besitzt. Sie kann weder religiös noch politisch noch moralisch gerechtfertigt werden. Zudem besitzt sie kein positives Gegenstück wie Tapferkeit oder Mut, das als erstrebenswerte Tugend gelten könnte.
+
+**Literatur**
+
+Shklar, Judith N.: *Ganz normale Laster*. Berlin 2014 (Original: *Ordinary Vices*, 1984).
+
