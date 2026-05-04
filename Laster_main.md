@@ -452,3 +452,15 @@ Als zentrales Ergebnis wurde festgehalten, dass Grausamkeit bei Shklar keine leg
 
 Shklar, Judith N.: *Ganz normale Laster*. Berlin 2014 (Original: *Ordinary Vices*, 1984).
 
+## 4. Sitzung am 4.5.2026
+
+**Bildet 4 Gruppen**
+
+Beantwortet in der Gruppenarbeit folgende Fragen mit den Seiten 57-81
+
+1. Wie charakterisiert Shklar den Begriff der Heuchelei?
+2. Was bedeutet es, Heuchelei an erste Stelle zu setzen im Vergleich dazu, Grausamkeit an erste Stelle zu setzen?
+3. Wie beschreibt sie das Verhältnis von Heuchelei und Aufrichtigkeit?
+
+
+
