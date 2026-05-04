@@ -461,6 +461,7 @@ Beantwortet in der Gruppenarbeit folgende Fragen mit den Seiten 57-81
 1. Wie charakterisiert Shklar den Begriff der Heuchelei?
 2. Was bedeutet es, Heuchelei an erste Stelle zu setzen im Vergleich dazu, Grausamkeit an erste Stelle zu setzen?
 3. Wie beschreibt sie das Verhältnis von Heuchelei und Aufrichtigkeit?
+4. Sammelt pro Gruppe 2-3 Textstellen (ca. 1 Seite), die wir im Plenum lesen und diskutieren.
 
 
 
