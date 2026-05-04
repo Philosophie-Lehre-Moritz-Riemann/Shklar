@@ -147,7 +147,7 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
  6. Haben Sie die Sitzungsinhalte gegliedert?
  7. Ist Ihr Text ergebnisorientiert verfasst?
  8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
- 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert sowie eine Version im Dateiformat .md erstellt?
+ 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert sowie eine Version im Dateiformat .md erstellt? Einen Überblick über die Markdown-Syntax finden Sie [hier](https://www.markdownguide.org/basic-syntax/).
 10. Haben Sie alle Punkte der Checkliste berücksichtigt?
 11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
 
