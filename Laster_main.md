@@ -422,11 +422,11 @@ Die Bestimmung von Grausamkeit erfolgte über ihre Wirkung: Grausamkeit bedeutet
 
 Ein zentraler Punkt der Sitzung war die These, Grausamkeit „an erste Stelle" zu setzen.[^1] Dies bedeutet, Grausamkeit als größtes Übel zu begreifen, das unbedingt vermieden werden muss. Diese negative Primatsetzung steht im Gegensatz zu klassischen ethischen Modellen, die ein höchstes Gut definieren. Die Priorisierung der Grausamkeit impliziert zudem eine Verschiebung moralischer Maßstäbe: Statt Handlungen in Bezug auf göttliche Ordnung zu bewerten, werden sie als zwischenmenschliche Handlungen beurteilt. Dadurch wird Grausamkeit als eigenständiges moralisches Problem sichtbar.
 
-# Grausamkeit im historischen und religiösen Kontext
+**Grausamkeit im historischen und religiösen Kontext**
 
 Im weiteren Verlauf wurde das Verhältnis von Grausamkeit und christlicher Praxis diskutiert. Dabei zeigte sich, dass Grausamkeit historisch häufig religiös legitimiert wurde, etwa durch Vorstellungen von Strafe, göttlicher Gerechtigkeit oder Märtyrertum. Besonders hervorgehoben wurde, dass Grausamkeit in religiösen Kontexten nicht grundsätzlich abgelehnt, sondern teilweise als sinnvoll oder notwendig interpretiert wurde.[^2] Dies zeigt sich beispielsweise in der Verbindung von Folter und Wahrheitsermittlung oder in der Idee der Reinigung durch Leiden.
 
-# Machiavellismus, Selbstbetrug und Rechtfertigung
+**Machiavellismus, Selbstbetrug und Rechtfertigung**
 
 Ein weiterer Schwerpunkt lag auf der Frage, warum Grausamkeit trotz ihrer moralischen
 
