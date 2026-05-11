@@ -36,7 +36,7 @@ Ihr Buch *Ganz normale Laster* widmet sich dem  Komplementärbegriff zur Tugend.
 |-------------|------------------|-------------------|
 | 13.04.2026  | **Einführung und Organisatorisches**                 |          kein Protokoll         |
 | 20.04.2026  | 1. Grausamkeit                 |       Protokoll: Hannah Freudendal           |
-| 27.04.2026  | 1. Grausamkeit                 | Protokoll:                  |
+| 27.04.2026  | 1. Grausamkeit                 | Protokoll: Lucas Adutwum                  |
 | 04.05.2026  | 2. Heuchelei                 | Protokoll: Anna Hundertmark   |
 | 11.05.2026  | 2. Heuchelei                 | Protokoll:                  |
 | 18.05.2026  | 3. Snobismus                 |  Protokoll:                 |
