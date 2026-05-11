@@ -395,6 +395,72 @@ Diese Werke prägen bis heute Debatten über Liberalismus, Gerechtigkeit und pol
 -	[Talking Politics: Shklar on Hypocrisy](https://podcasts.apple.com/de/podcast/shklar-on-hypocrisy/id1508992867?i=1000517869772).
 
 
+## 2. Sitzung am 20.04.2026
+
+### Protokoll von Hannah Freudendahl
+
+
+**Gegenstand und Ziel der Sitzung**
+
+Die zweite Sitzung stellte die erste Textsitzung dar und widmete sich der gemeinsamen
+
+Erarbeitung des ersten Teils von Judith N. Shklars Werk Ganz normale Laster. Im Mittelpunkt stand die Frage, wie Grausamkeit als philosophischer Gegenstand eingeführt wird und warum sie eine zentrale Rolle einnimmt. Behandelt wurden insbesondere die Kapitel zur Priorisierung der Grausamkeit sowie ihr Verhältnis zur christlichen Praxis und zur Rolle der Opfer.
+
+**Lasterbegriff und Einordnung der Grausamkeit**
+
+Zu Beginn wurde der Begriff des Lasters geklärt. Laster wurden als Gegenstücke zu
+
+Tugenden verstanden und als negative Charaktereigenschaften beschrieben, die im Alltag wirksam sind. Dabei wurde betont, dass Laster — ähnlich wie Tugenden — erlernt und durch soziale Umstände geprägt werden können. Sie sind somit Teil der menschlichen Natur und müssen als solche betrachtet werden.
+
+Grausamkeit wurde als ein zentrales Laster hervorgehoben, das sowohl individuell als auch gesellschaftlich relevant ist. Gleichzeitig wurde deutlich, dass es sich nicht um eine rein theologisch bestimmte Kategorie handelt, sondern um ein alltägliches Phänomen, das unabhängig von religiösen Deutungen analysiert werden kann.
+
+**Begriff und Struktur der Grausamkeit**
+
+Die Bestimmung von Grausamkeit erfolgte über ihre Wirkung: Grausamkeit bedeutet, einem anderen Wesen willentlich Leid zuzufügen, sei es körperlich oder psychisch. Dabei wurde herausgestellt, dass Grausamkeit und Gewalt nicht klar voneinander getrennt werden können, da Grausamkeit häufig als spezifische Form oder Bestandteil von Gewalt erscheint. Zugleich wurde betont, dass Grausamkeit ein wiederkehrendes Handlungsmuster ist, an das sich Menschen gewöhnen können. Diese Gewöhnung führt dazu, dass Grausamkeit sowohl im privaten als auch im politischen Kontext normalisiert wird.
+
+**Die Priorisierung der Grausamkeit**
+
+Ein zentraler Punkt der Sitzung war die These, Grausamkeit „an erste Stelle" zu setzen.[^1] Dies bedeutet, Grausamkeit als größtes Übel zu begreifen, das unbedingt vermieden werden muss. Diese negative Primatsetzung steht im Gegensatz zu klassischen ethischen Modellen, die ein höchstes Gut definieren. Die Priorisierung der Grausamkeit impliziert zudem eine Verschiebung moralischer Maßstäbe: Statt Handlungen in Bezug auf göttliche Ordnung zu bewerten, werden sie als zwischenmenschliche Handlungen beurteilt. Dadurch wird Grausamkeit als eigenständiges moralisches Problem sichtbar.
+
+# Grausamkeit im historischen und religiösen Kontext
+
+Im weiteren Verlauf wurde das Verhältnis von Grausamkeit und christlicher Praxis diskutiert. Dabei zeigte sich, dass Grausamkeit historisch häufig religiös legitimiert wurde, etwa durch Vorstellungen von Strafe, göttlicher Gerechtigkeit oder Märtyrertum. Besonders hervorgehoben wurde, dass Grausamkeit in religiösen Kontexten nicht grundsätzlich abgelehnt, sondern teilweise als sinnvoll oder notwendig interpretiert wurde.[^2] Dies zeigt sich beispielsweise in der Verbindung von Folter und Wahrheitsermittlung oder in der Idee der Reinigung durch Leiden.
+
+# Machiavellismus, Selbstbetrug und Rechtfertigung
+
+Ein weiterer Schwerpunkt lag auf der Frage, warum Grausamkeit trotz ihrer moralischen
+
+Problematik praktiziert wird. Hier wurde der Zusammenhang von Grausamkeit, Selbstbetrug und Heuchelei herausgestellt. Es wurde deutlich, dass Menschen grausame Handlungen häufig durch narrative Konstruktionen rechtfertigen oder verschleiern. Dadurch wird Grausamkeit nicht mehr als solche wahrgenommen. Besonders anschaulich wurde dies am Beispiel Usbek gezeigt, der seine Grausamkeit als Ausdruck von Liebe interpretiert.[^3]
+
+Zugleich wurde Machiavellis Position diskutiert, nach der Grausamkeit ein effektives Mittel zur Sicherung von Macht und Gehorsam darstellt. Er rechtfertigt die Grausamkeit nicht. Es geht nur darum, was ihm als Fürst was bringt. Grausamkeit erscheint hier als „leichteres Mittel", um Gehorsamkeit zu erlangen.[^4]
+
+**Die Rolle der Opfer**
+
+Abschließend wurde die Rolle der Opfer von Grausamkeit thematisiert. Dabei wurde betont, dass eine Idealisierung oder Heroisierung der Opfer problematisch ist, da sie die Gewalt der Täter relativieren kann. In der Diskussion wurde deutlich, dass Opfer oft in sehr schwierigen und ausweglosen Situationen stehen und ihr Verhalten stark davon geprägt ist.[^5] Außerdem wurde hervorgehoben, dass die Zuschreibung positiver Eigenschaften wie Mut oder Stolz problematisch sein kann, weil dadurch die Grausamkeit in den Hintergrund tritt. Der Fokus verschiebt sich dann von der eigentlichen Gewalthandlung hin zur Reaktion der Betroffenen.[^6]
+
+**Fazit**
+
+Die Sitzung zeigte, dass Shklar mit der Fokussierung auf Grausamkeit einen eigenen Zugang zur Moralphilosophie entwickelt. Anstatt ein höchstes Gut in den Mittelpunkt zu stellen, geht es ihr vor allem darum, Grausamkeit als größtes Übel zu erkennen und zu vermeiden. Dabei wurde deutlich, dass Grausamkeit kein Ausnahmephänomen ist, sondern im Alltag ebenso wie im politischen Kontext eine Rolle spielt und durch Gewöhnung sowie verschiedene Formen der Rechtfertigung aufrechterhalten wird.
+
+Für die nächste Sitzung bleibt damit insbesondere die Frage offen, wie diese
+
+Mechanismen genauer zu verstehen sind und welche Rolle dabei weiterhin die
+
+Perspektive der Opfer spielt. Darauf aufbauend wird die Diskussion im weiteren Verlauf des Textes fortgesetzt.
+
+Literaturhinweis: Shklar, Judith N.: Ganz normale Laster. Berlin: Matthes & Seitz, 2014.
+
+[^1]: Vgl. Judith. N. Shklar: Ganz normale Laster. Berin: Matthes & Seitz 2014, S. 15.
+    
+[^2]:  Vgl. Judith N. Shklar: Ganz normale Laster, S. 16f. 
+    
+[^3]:  Vgl. Judith N. Shklar: Ganz normale Laster, S. 21.
+    
+[^4]:  Vgl. Judith N. Shklar: Ganz normale Laster, S. 18. 
+    
+[^5]:  S. 19. 
+   
+[^6]:  S. 24ff.
 
 ## 3. Sitzung am 27.04.2026
 
@@ -462,6 +528,44 @@ Beantwortet in der Gruppenarbeit folgende Fragen mit den Seiten 57-81
 2. Was bedeutet es, Heuchelei an erste Stelle zu setzen im Vergleich dazu, Grausamkeit an erste Stelle zu setzen?
 3. Wie beschreibt sie das Verhältnis von Heuchelei und Aufrichtigkeit?
 4. Sammelt pro Gruppe 2-3 Textstellen (ca. 1 Seite), die wir im Plenum lesen und diskutieren.
+
+### Protokoll von Anna Hundertmark
+
+**Sitzung am 04.05.: Einführung in das Kapitel _Seien wir keine Heuchler_**
+
+**Rückblick auf die Grausamkeit:**
+
+Die Sitzung wird eröffnet, indem die Protokolle zu den beiden vorangegangenen Sitzungen präsentiert werden:
+
+Das Protokoll zur ersten Sitzung blickte zunächst auf die Grausamkeit als zentrales Laster und alltägliches Phänomen zurück. Es wurde die Bedeutung des absichtlichen Zufügens von Leid als wiederkehrendes Handlungsmuster thematisiert und verdeutlicht, wie dieses durch wiederkehrende Handlungsmuster einen Normalisierungseffekt erzielt. Im Anschluss daran wurde gezeigt, dass die Priorisierung der Grausamkeit diese Zusammenhänge problematisiert. Außerdem wurde der Zusammenhang von Grausamkeit und Gewalt aufgegriffen und zusammengefasst, wie dieser unter anderem im Kontext Machiavellis Grausamkeit als Mittel für Gehorsam legitimiert. Es wurden bereits Bezüge zu den Folgesitzungen angedeutet, indem dargestellt wurde, dass die positive Konnotation der Opfer von der Grausamkeit ablenkt und der Selbstbetrug im Kontext der Grausamkeit einen ersten Bezug zur Heuchelei herstellt.
+
+Im zweiten Protokoll wurden die Erkenntnisse zur Problematik im Umgang mit den Opfern von Grausamkeit stärker fokussiert. Anschließend an die erste Sitzung wurde vertieft, dass das Feiern der Opfer von Gewalt und Grausamkeit zur Legitimation dieser führt. Ein weiteres Problem wurde darin gesehen, dass die Individualität der Opfer in der Masse der Opfer untergeht. Abschließend wurde festgestellt, dass eine komplementäre Tugend zur Grausamkeit fehlt, da die gängigen Tugenden, die ihr gegenübergestellt werden, wie Stolz oder Tapferkeit, unmittelbar an die Grausamkeit anschließen und ohne sie nicht bestehen können.
+
+**Abschließende Gedanken zur Grausamkeit:**
+
+Bevor im zweiten Kapitel zum Thema der Heuchelei übergegangen wird, wird der Rückblick durch eine kurze Betrachtung des letzten Abschnitts des ersten Kapitels abgeschlossen. Zunächst wird etabliert, dass die Idee Montaignes, die Grausamkeit wie bisher besprochen an erste Stelle zu setzen, an ihre Grenzen stoßen kann, da dies zu Misanthropie führen kann. Dabei wird jedoch die Existenz der Nicht-Grausamen und die eigene Grausamkeit übergangen, was zu Heuchelei führt. Hieraus ergibt sich die Frage nach der moralischen Grausamkeit, wobei ein besonderes Augenmerk auf Nietzsche und dessen Idee, die Heuchelei an erste Stelle zu setzen, da sie die Grausamkeit der Menschen verschleiert, gelegt wird. Hier zeigt sich erneut die Schwierigkeit der Abgrenzung von Grausamkeit und Gewalt und es wird deutlich, dass die Heuchelei ein Problem mit zwischenmenschlicher und politischer Dimension darstellt.
+
+**Seien wir keine Heuchler:**
+
+Im Rahmen einer Gruppenarbeit werden drei Fragen und eine Aufgabe bearbeitet und anschließend im Plenum besprochen. Die Fragen werden mithilfe des ersten Teils des zweiten Kapitels bearbeitet. Die Bearbeitung der Aufgabe, zwei bis drei Textstellen zu sammeln, die im Plenum gelesen und diskutiert werden sollen, wird in die Besprechung der drei Fragen integriert und daher nicht gesondert protokolliert.
+
+**Wie charakterisiert Shklar den Begriff Heuchelei?**
+
+Es wurde dargestellt, wie Shklar den Begriff der Heuchelei anhand des zugehörigen Eintrags im Oxford Dictionary als „unter der Verschleierung, des wahren Charakters oder der tatsächlichen Neigung eine falsche Erscheinung von Tugend oder Güte annehmen, vor allem in Bezug auf den Glauben oder religiöses Leben" (S. 59) definiert. Hieraus ergab sich eine Profilierung der sich heilig verhaltenden Person, was hehre Ansprüche an diese erhob. Das Erkennen von Heuchelei war in der Konsequenz abhängig vom Moralverständnis der Person, die versuchte sie zu entlarven und es stellte sich die Frage nach den sich aus einer Entlarvung ergebenden Konsequenzen.
+
+Die gesammelten Ergebnisse wurden um den Selbstbetrug ergänzt, welcher die Konsequenz der hohen Ansprüche einer streng Gläubigen Person sein muss und die Verbreitung der Heuchelei im religiösen Kontext unterstreicht (S. 61).
+
+**Was bedeutet es, Heuchelei an erste Stelle zu setzen im Vergleich dazu, Grausamkeit an erste Stelle zu setzen?**
+
+Grausamkeit wurde definiert als Handlungen, die direktes Leid nach sich ziehen, wogegen gezeigt wurde, dass Heuchelei nicht zwingend zu Leid führt. Weiterhin wurde gezeigt, dass Grausamkeit Taten voraussetzt, während die Heuchelei den Fokus auf die Ideologie legt, nach der gehandelt wird. Zudem wurde festgestellt, dass Shklar, „den Heuchler" als Charakter in der Tradition hellenistischer Charakterisierungen etabliert (S. 61), während Grausamkeit keine Charaktereigenschaft darstellt, die es erlaubt, „den Grausamen" zu etablieren.
+
+**Wie beschreibt sie das Verhältnis von Heuchelei und Aufrichtigkeit?**
+
+Es wurde deutlich, dass laut Shklar Aufrichtigkeit und Heuchelei nicht ohneeinander funktionieren können (S. 72). Hier wurde zwischen „alten Heuchlern" und „neuen Heuchlern" unterschieden: Während die ersteren ein schlechtes Gewissen entwickelten und schlechte Taten verheimlichten, verteidigten die letzteren ihr Verhalten und justierten ihr Gewissen selbst, ohne dass die Gesellschaft Einfluss nimmt. Dadurch wird die Geisteshaltung, die die Abgrenzung von Heuchelei und Aufrichtigkeit ermöglicht, durch das Individuum selbst vorgenommen. Dies verschärfte die Problematik der subjektivistischen Doktrin. Hieraus ergab sich Folgendes. Am Beispiel von Alceste konnte gezeigt werden, dass Aufrichtigkeit nicht bedeuten kann, jedem zu sagen, was man denkt, da dies kein gesellschaftlich kompatibles Verhalten sein kann, wenn die Gesellschaft Heuchelei voraussetzt (S. 65).
+
+**Literatur:**
+
+Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices_, 1984).
 
 
 
