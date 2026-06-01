@@ -39,14 +39,14 @@ Ihr Buch *Ganz normale Laster* widmet sich dem  Komplementärbegriff zur Tugend.
 | 27.04.2026  | 1. Grausamkeit                 | Protokoll: Lucas Adutwum                  |
 | 04.05.2026  | 2. Heuchelei                 | Protokoll: Anna Hundertmark   |
 | 11.05.2026  | 2. Heuchelei                 | Protokoll:                  |
-| 18.05.2026  | 3. Snobismus                 |  Protokoll:                 |
+| 18.05.2026  | [3. Snobismus] Sitzung entfallen                 |  Protokoll:                 |
 | 25.05.2026  | Pfingstmontag, keine Sitzung                 | kein Protokoll                  |
-| 01.06.2026  |  3. Snobismus                | Protokoll:                  |
-| 08.06.2026  |  4. Verrat                |  Protokoll:                 |
-| 15.06.2026  |  4. Verrat                | Protokoll:                  |
-| 22.06.2026  |  5. Misanthropie                |  Protokoll:                 |
-| 29.06.2026  | 6. Schlechte Charaktere                 | Protokoll:                  |
-| 06.07.2026  | **Abschlussdiskussion, Prüfungsleistungen, Feedback**                 | kein Protokoll                  |
+| 01.06.2026  |  3. Snobismus 102-129               | Protokoll:                  |
+| 08.06.2026  |  3. Snobismus 129-156             |  Protokoll:                 |
+| 15.06.2026  |  4. Verrat 157-182                | Protokoll:                  |
+| 22.06.2026  |  4. Verrat 182-212                 |  Protokoll:                 |
+| 29.06.2026  | 5. Misanthropie                   | Protokoll:                  |
+| 06.07.2026  | **6. Schlechte Charaktere, Abschlussdiskussion, Prüfungsleistungen, Feedback**                 | kein Protokoll                  |
 
 
 **Prüfungszeitraum des Sommersemesters**:
