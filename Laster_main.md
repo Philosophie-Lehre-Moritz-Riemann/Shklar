@@ -45,8 +45,8 @@ Ihr Buch *Ganz normale Laster* widmet sich dem  Komplementärbegriff zur Tugend.
 | 08.06.2026  |  3. Snobismus 129-156             |  Protokoll:                 |
 | 15.06.2026  |  4. Verrat 157-182                | Protokoll:                  |
 | 22.06.2026  |  4. Verrat 182-212                 |  Protokoll:                 |
-| 29.06.2026  | 5. Misanthropie                   | Protokoll:                  |
-| 06.07.2026  | **6. Schlechte Charaktere, Abschlussdiskussion, Prüfungsleistungen, Feedback**                 | kein Protokoll                  |
+| 29.06.2026  |  6. Schlechte Charaktere für gute Liberale S. 249-273 | Protokoll:                  |
+| 06.07.2026  | **Abschlussdiskussion, Prüfungsleistungen, Feedback**                 | kein Protokoll                  |
 
 
 **Prüfungszeitraum des Sommersemesters**:
