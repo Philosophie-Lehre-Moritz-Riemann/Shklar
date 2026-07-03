@@ -568,4 +568,36 @@ Es wurde deutlich, dass laut Shklar Aufrichtigkeit und Heuchelei nicht ohneeinan
 Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices_, 1984).
 
 
+## Sitzung am 06.07.2024
+
+### Aufgabenstellung Take-Home-Klausur BA 4
+
+**Hinweise**
+
+
+1) Bitte beachten Sie die formalen Vorgaben für schriftliche Arbeiten im Fach Philosophie. Lassen Sie Ihren Text vor der Abgabe Korrektur lesen. Unterstützen Sie sich als Kommiliton:innen dabei wechselseitig.
+
+2) Benutzen Sie für die Titelseite die entsprechende Vorlage (als Download auf der Instituts-Website).
+
+3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
+
+4) Gehen Sie in die Bibliothek und recherchieren Sie. Verwenden Sie pro Frage mindestens 3 Quellen aus der Forschungsliteratur.
+
+5) Die Klausur ist selbständig zu verfassen. Die entsprechende eidesstattliche Erklärung (Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden. Die Verwendeung von LLM und anderen Formen generativer KI ist ein unzulässiges Hilfsmittel und wird wie ein Plagiat als Täuschungsversuch gewertet. 
+
+6) Abgabetermin ist der 30.09.2026. Die Abgabe erfolgt ausgedruckt an der Hauptpforte oder im Abgabekasten im Erdgeschoss der LS 4, sowie als PDF-Datei per Email.
+
+**Bitte wählen Sie aus den folgenden Fragen zwei aus und beantworten diese auf insgesamt 5-6 Seiten (zzgl. Deckblatt und Literaturverzeichnis)**
+
+
+
+1. Versuchen Sie eine Begriffsbestimmung: Was ist ein Laster? (2-3 Seiten)
+2. Vegleichen Sie Grausamkeit mit Heuchelei hinsichtlich der ambilvalenten Bewertung, die Shklar vornimmt. (2-3 Seiten)
+3. Problematisieren Sie (2-3 Seiten)
+4. Diskutieren Sie den Liberalismus der Furcht in Bezug auf die Ideengeschichte und die Debatte zwischen Shklars Zeitgenoss:innen. (2-3 Seiten)
+
+
+**Viel Erfolg und fröhliche Wissenschaft!**
+
+
 
