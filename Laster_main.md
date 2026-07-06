@@ -568,7 +568,7 @@ Es wurde deutlich, dass laut Shklar Aufrichtigkeit und Heuchelei nicht ohneeinan
 Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices_, 1984).
 
 
-## Sitzung am 06.07.2024
+## Sitzung am 06.07.2026
 
 
 ### Abschlussdiskussion
