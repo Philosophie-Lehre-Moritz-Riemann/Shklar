@@ -570,6 +570,11 @@ Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices
 
 ## Sitzung am 06.07.2024
 
+
+### Abschlussdiskussion
+
+>Bildet Zweierteams! Besprecht 10 Minuten lang Eure wesentlichen Erkenntnisse aus Textlektüre und Seminardiskussion. Schreibt Euch die 3 wichtigsten Punkte auf und bringt sie in die Plenumsdiskussion ein.
+
 ### Aufgabenstellung Take-Home-Klausur BA 4
 
 **Hinweise**
@@ -579,7 +584,7 @@ Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices
 
 2) Benutzen Sie für die Titelseite die entsprechende Vorlage (als Download auf der Instituts-Website).
 
-3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
+3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen klaren Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
 
 4) Gehen Sie in die Bibliothek und recherchieren Sie. Verwenden Sie pro Frage mindestens 3 Quellen aus der Forschungsliteratur.
 
@@ -591,10 +596,11 @@ Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices
 
 
 
-1. Versuchen Sie eine Begriffsbestimmung: Was ist ein Laster? (2-3 Seiten)
+1. Versuchen Sie eine Begriffsbestimmung: Was ist ein Laster? Grenzen Sie den Begriff dabei von anderen ethischen Grundbegriffen ab. (2-3 Seiten)
 2. Vegleichen Sie Grausamkeit mit Heuchelei hinsichtlich der ambilvalenten Bewertung, die Shklar vornimmt. (2-3 Seiten)
-3. Problematisieren Sie (2-3 Seiten)
-4. Diskutieren Sie den Liberalismus der Furcht in Bezug auf die Ideengeschichte und die Debatte zwischen Shklars Zeitgenoss:innen. (2-3 Seiten)
+3. Problematisieren Sie die Verbindung zwischen Lastern und liberalem Charakter. (2-3 Seiten)
+4. Diskutieren Sie den Liberalismus der Furcht in Bezug auf die Ideengeschichte des Liberalismus und die Debatte zwischen Shklars Zeitgenoss:innen. (2-3 Seiten)
+5. Reflektieren Sie Shklars philosophische Methode und setzen Sie sie in Bezug zum Verhältnis von Philosophie und Literatur. (2-3 Seiten)
 
 
 **Viel Erfolg und fröhliche Wissenschaft!**
