@@ -584,11 +584,11 @@ Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices
 
 2) Benutzen Sie für die Titelseite die entsprechende Vorlage (als Download auf der Instituts-Website).
 
-3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen klaren Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
+3) Sämtliche verwendeten Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen klaren Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
 
 4) Gehen Sie in die Bibliothek und recherchieren Sie. Verwenden Sie pro Frage mindestens 3 Quellen aus der Forschungsliteratur.
 
-5) Die Klausur ist selbständig zu verfassen. Die entsprechende eidesstattliche Erklärung (Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden. Die Verwendeung von LLM und anderen Formen generativer KI ist ein unzulässiges Hilfsmittel und wird wie ein Plagiat als Täuschungsversuch gewertet. 
+5) Die Klausur ist selbständig zu verfassen. Die entsprechende eidesstattliche Erklärung (Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden. Die Verwendung von LLM und anderen Formen generativer KI ist ein unzulässiges Hilfsmittel und wird wie ein Plagiat als Täuschungsversuch gewertet. 
 
 6) Abgabetermin ist der 30.09.2026. Die Abgabe erfolgt ausgedruckt an der Hauptpforte oder im Abgabekasten im Erdgeschoss der LS 4, sowie als PDF-Datei per Email.
 
@@ -597,7 +597,7 @@ Shklar, Judith N.: _Ganz normale Laster_. Berlin 2014 (Original: _Ordinary Vices
 
 
 1. Versuchen Sie eine Begriffsbestimmung: Was ist ein Laster? Grenzen Sie den Begriff dabei von anderen ethischen Grundbegriffen ab. (2-3 Seiten)
-2. Vegleichen Sie Grausamkeit mit Heuchelei hinsichtlich der ambilvalenten Bewertung, die Shklar vornimmt. (2-3 Seiten)
+2. Vergleichen Sie Grausamkeit mit Heuchelei hinsichtlich der ambilvalenten Bewertung, die Shklar vornimmt. (2-3 Seiten)
 3. Problematisieren Sie die Verbindung zwischen Lastern und liberalem Charakter. (2-3 Seiten)
 4. Diskutieren Sie den Liberalismus der Furcht in Bezug auf die Ideengeschichte des Liberalismus und die Debatte zwischen Shklars Zeitgenoss:innen. (2-3 Seiten)
 5. Reflektieren Sie Shklars philosophische Methode und setzen Sie sie in Bezug zum Verhältnis von Philosophie und Literatur. (2-3 Seiten)
